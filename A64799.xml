@@ -1,0 +1,959 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The art of pruning fruit-trees with an explanation of some words which gardiners make use of in speaking of trees, and a tract, Of the use of the fruits of trees for preserving us in health or for curing us when we are sick / translated from the French original set forth the last year by a physician of Rochelle.</title>
+            <title>Art de tailler les arbres fruitiers. English</title>
+            <author>Venette, Nicolas, 1633-1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 128 KB of XML-encoded text transcribed from 61 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64799</idno>
+            <idno type="STC">Wing V187</idno>
+            <idno type="STC">ESTC R12617</idno>
+            <idno type="EEBO-CITATION">13801525</idno>
+            <idno type="OCLC">ocm 13801525</idno>
+            <idno type="VID">101943</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64799)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101943)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 854:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The art of pruning fruit-trees with an explanation of some words which gardiners make use of in speaking of trees, and a tract, Of the use of the fruits of trees for preserving us in health or for curing us when we are sick / translated from the French original set forth the last year by a physician of Rochelle.</title>
+                  <title>Art de tailler les arbres fruitiers. English</title>
+                  <author>Venette, Nicolas, 1633-1698.</author>
+               </titleStmt>
+               <extent>[8], 104, [8] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thom. Basset ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written by Nicolas Venette.  Cf. Wing.</note>
+                  <note>Translation of: L'art de tailler les arbres fruitiers.</note>
+                  <note>Advertisement on p. [3-8] at end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fruit --  Pruning --  Early works to 1800.</term>
+               <term>Fruit trees --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101943:1"/>
+            <pb facs="tcp:101943:1" rendition="simple:additions"/>
+            <p>THE ART of Pruning <hi>Fruit-Trees,</hi> WITH AN EXPLANATION Of ſome Words which Gardiners make uſe of in ſpeaking of Trees. AND A TRACT Of the Uſe of the FRUITS of TREES, For preſerving us in Health, or for Curing us when we are Sick.</p>
+            <p>
+               <hi>Tranſlated from the French Original, ſet forth the laſt Year by a Phyſician of</hi> Rochelle.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Tho. Baſſet,</hi> at the <hi>George</hi> near St. <hi>Dunſtans Church</hi> in <hi>Fleet-ſtreet,</hi> 1685.</p>
+         </div>
+         <div type="approbation">
+            <pb facs="tcp:101943:2"/>
+            <pb facs="tcp:101943:2"/>
+            <head>THE APPROBATION OF THE Colledge-Royal Of Phyſicians at <hi>ROCHELLE.</hi>
+            </head>
+            <p>WE ſubſign'd, Doctors of Phyſick of the Colledge-Royal of this Town, and deputed by our Company to Read and Examine a Book Com<g ref="char:EOLhyphen"/>pos'd by one of our Fellows, which has for Title, <hi>Of the uſe of the Fruits of Trees,</hi> do certify that there is no<g ref="char:EOLhyphen"/>thing
+<pb facs="tcp:101943:3"/>in it which is not conforma<g ref="char:EOLhyphen"/>ble to good Phyſick. In Teſtimo<g ref="char:EOLhyphen"/>ny of which we have ſubſign'd this Approbation, at <hi>Rochelle</hi> the 8th of <hi>March.</hi> 1683.</p>
+            <closer>
+               <signed>
+                  <hi>Chauvet, Arault,</hi> Cenſors of the ſaid Colledge.</signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:101943:3"/>
+            <head>THE PREFACE.</head>
+            <p>THere are Perſons who perſwade themſelves that its a crime to add any thing to Antiquity, and who ſay, That nothing can be invented of new more than what the Ancients have ſaid; and that it is a vain Glory and Preſumption to imagine we can ſay any thing which has not been written. But if it were free for me to Anſwer this O<g ref="char:EOLhyphen"/>pinion, I would ſay, That Arts are not of thoſe things to which nothing can be ad<g ref="char:EOLhyphen"/>ded, and that the Older the World grows, the more they are carryed on to perfecti<g ref="char:EOLhyphen"/>on. <hi>Anatomy</hi> did not appear in ſo
+<pb facs="tcp:101943:4"/>great a Luſter in the Time of <hi>Galen,</hi> as in our Days: and the <hi>Art of Pru<g ref="char:EOLhyphen"/>ning Fruit-trees</hi> was not ſo perfect in the Time of the <hi>Curate of Henonvil<g ref="char:EOLhyphen"/>le,</hi> as at preſent. We are like a Dwarf on a Giants ſhoulders. We ſee much farther than our Fathers, and we dai<g ref="char:EOLhyphen"/>ly diſcover things which they knew not. I will not ſay for this, that there are not any precepts or Rules found for Fruning Trees in the <hi>Books of Agri<g ref="char:EOLhyphen"/>culture and Gardening</hi> which have been Printed within Twenty or Five and Twenty Years, I candidly own that there are ſome; but in truth they are ſo few in Number, and the greateſt part ſo obſcure, and ſo little to be re<g ref="char:EOLhyphen"/>ly'd on, that I very much doubt whe<g ref="char:EOLhyphen"/>ther they may be followed without committing faults. If on the contrary you ſtick to thoſe which I give in this Tract; many Years experience has aſ<g ref="char:EOLhyphen"/>ſur'd me, that Trees Prun'd according
+<pb facs="tcp:101943:4"/>to the Rules which I Eſtabliſh, will produce great Fruits in abundance. I have therefore reduc't <hi>The Art of Pruning Fruit-Trees</hi> into four Chap<g ref="char:EOLhyphen"/>ters; and I have caus'd ſeven Figures to be Grav'd which I Judg'd neceſ<g ref="char:EOLhyphen"/>ſary for the underſtanding of what I ſay: The firſt Chapter Treats of Pru<g ref="char:EOLhyphen"/>ning Trees in the Month of <hi>February.</hi> The ſecond explains that of the beginning of <hi>May.</hi> The third teaches the Pru<g ref="char:EOLhyphen"/>ning at the end of <hi>May</hi> and the begin<g ref="char:EOLhyphen"/>ning of <hi>June.</hi> Laſtly the Fourth com<g ref="char:EOLhyphen"/>priſes the Pruning of <hi>July.</hi> I thought fit to reduce this Book into a form of precepts, without forming a continued Diſcourſe; becauſe often we have need of one precept, without having need of a<g ref="char:EOLhyphen"/>nother: and I have writ it after ſo popular a manner that the moſt Illite<g ref="char:EOLhyphen"/>rate Gardiners might comprehend what I would ſay.</p>
+            <pb facs="tcp:101943:5"/>
+            <p> 
+               <hi>Opus arduum nova Conſcribere, Inaudita edocere, Inſolentia praecep<g ref="char:EOLhyphen"/>tis firmare, magis arduum aliquid Anti<g ref="char:EOLhyphen"/>quitati addere.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="part">
+            <pb n="1" facs="tcp:101943:5"/>
+            <head>THE Art of Pruning, OR Lopping Fruit-Trees.</head>
+            <p>I Suppoſe that a Tree has been well Planted, and ſet in a fertile Soil, that the Root of it has been well cut, that good choice has been made of the Plant and of its kind; and that it has ſome years Growth, to be able to endure the Pruning-knife.</p>
+            <div n="1" type="chapter">
+               <pb n="2" facs="tcp:101943:6"/>
+               <head>CHAP. I. <hi>The Pruning or Lopping of Fruit-trees, for the Month of</hi> February.</head>
+               <p>ALmoſt all Trees begin to ſprout forth in <hi>France</hi> toward the end of <hi>Fe<g ref="char:EOLhyphen"/>bruary,</hi> or the beginning of <hi>March;</hi> and this is the motion which we call the riſe of the Sap, or the ſhooting of Trees. This ne<g ref="char:EOLhyphen"/>vertheleſs happens variouſly, the diſpoſiti<g ref="char:EOLhyphen"/>on of the Air, the goodneſs of the Soil, the vigour or the kind of the Tree, make the Saps or ſhootings to come earlier or later: They come early in a dry year, and are backward in a moiſt.</p>
+               <p>This riſe of the Sap invites then Gardi<g ref="char:EOLhyphen"/>ners to Prune or Lop Trees in the Month of <hi>February,</hi> which is the moſt proper time for this work; and tho' it may be done all the Winter, however the Moon be diſpos'd, Trees being then at reſt as to their Bran<g ref="char:EOLhyphen"/>ches; nevertheleſs it is much better to ſtay for this till the Colds are paſt, and that the Rains no longer infeſt the wounds which
+<pb n="3" facs="tcp:101943:6"/>are made on Trees; by this means they ſeal themſelves in a little time, and ſoon<g ref="char:EOLhyphen"/>ner cover the wound which has been made on them.</p>
+               <p>Before you Prune or Lop a Tree, you ought to conſider the ſtrength and kind of it for rendring it beautiful and fertile; for all Trees are not to be Lopt after the ſame faſhion: We Lop diverly (for inſtance) a Peach-Tree and a Winter Pear-Tree; and its by Lopping of this laſt, that the skill of the Gardiner ſhews it ſelf the moſt con<g ref="char:EOLhyphen"/>ſpicuouſly, and that we judge beſt of his ability.</p>
+               <p>There are Trees which we dare not Lop, by reaſonof the abundance of their Sap; for the more we Lop them, the more Wood they ſhoot forth, and the leſs Fruit; even the Flower-buds yield Wood, which hap<g ref="char:EOLhyphen"/>pens often to the Tree, which yields the delicate Pear call'd <hi>the little Rouſſelet;</hi> to the lateward <hi>Bergamot,</hi> to the <hi>Virgoleuſe,</hi> to the St. <hi>Lezan, &amp;c.</hi> But when theſe ſorts of Trees have ſhot forth their full, after this they bear but too much. In this oc<g ref="char:EOLhyphen"/>caſion Lop ſometimes ſhort, and ſometimes long, or not at all: take away ſometimes the young Wood, and preſerve the old; another while cut away the old, for the Tree to grow young again; at another time cut away the Branches, and all the falſe
+<pb n="4" facs="tcp:101943:7"/>Sprouts, but remember never to diſgarniſh the Stock, by Lopping away all the lit<g ref="char:EOLhyphen"/>tle Branches of the ſides of the Tree, and making the Trunk bare.</p>
+               <p>Gardiners have a very true Maxim, <hi>Lop in fair Weather, in the decreaſe of the Moon, and in the end of the Saps, or rather when Trees are at rest.</hi>
+               </p>
+               <p>The decreaſe of the Moon of <hi>January,</hi> which happens in <hi>February,</hi> is the true time for Lopping Trees, and for preſerving Grafts; not but this Rule has ſome excep<g ref="char:EOLhyphen"/>tion; for weak Trees, and thoſe that are Planted but of that year, ought to be Lopt at the new Moon, to make them ſprout vi<g ref="char:EOLhyphen"/>gorouſly: And we muſt remember that Trees ought not to be cut when we Plant them, but we ought to ſtay till the Month of <hi>February</hi> following.</p>
+               <p>When you Plant a Graft of three years, which has Flower-buds, preſerve ſome to ſee the Fruit in the firſt year: It is of theſe ſorts of Trees that you muſt always make choice, they ſhew from their beginning an aſſured fruitfulneſs, and bear afterward a great deal of Fruit as long as they live.</p>
+               <p>Becauſe it is known that an abundance of Sap makes but Branches, and that a little or mean Sap makes Fruit: and more<g ref="char:EOLhyphen"/>over that the Moon has leſs influence on ſublunary things, when ſhe begins to be in
+<pb n="5" facs="tcp:101943:7"/>the Wain, than when ſhe Increaſes; expe<g ref="char:EOLhyphen"/>rience has taught us that the decreaſe of the Moon is the moſt kindly time for Lopping Trees, which have then leſs of motion. The decreaſe is from the time of the Full to the New, nevertheleſs ſome will have it that we may Lop Trees during the time that the Moon is not horned, that is to ſay, from her eighth day to her one and Twentieth. They ſay that it is not only the Moon which cauſes Fruit on Trees, but the diſpoſition of the Branches; and that it ſuffices that the Moon has ſtrength, provided that on the other ſide ſhe finds in a Branch, Fibres tranſverſe and diſpos'd to cauſe Fruit-buds to be there form'd. True it is, experi<g ref="char:EOLhyphen"/>ence has taught me that the Seeds of Flow<g ref="char:EOLhyphen"/>ers caſt into the Earth during all this time, turn double ſooner than thoſe that are Sown in another time.</p>
+               <p>We ought firſt to Lop Apricock, Ne<g ref="char:EOLhyphen"/>ctarin, and Peach-trees, <hi>&amp;c.</hi> becauſe they ſhoot forth the firſt; the Winter Pear-trees follow next, after theſe thoſe of Au<g ref="char:EOLhyphen"/>tumn and of Summer, and the Portugal Quince-trees: We ought ſhortly after to Lop and Prune Plum-trees, and Apple-trees, and laſtly Spanish Pomegranet-trees, becauſe all theſe Trees ſhoot forth the one after the other; but above all, we ought not to Lop this laſt till it has ſhot forth a
+<pb n="6" facs="tcp:101943:8"/>little, that we may the better diſtinguiſh the weak or dead Branches.</p>
+               <p>After the Obſervations which we even now made, we ought to begin to Lop and Trim up a Tree by one of its ſides from the lower part to the top, and we ought af<g ref="char:EOLhyphen"/>terward to carry on our Work without con<g ref="char:EOLhyphen"/>fuſion, and to take one Branch after the o<g ref="char:EOLhyphen"/>ther. This ſide being thus Lopt and paled, we deſcend on the other ſide from the top to the bottom in the ſame Order.</p>
+               <p>We muſt here remember always to cut the Branches in the form of a Hinds foot, ſo that the Sun may not dry the wound, which ought to be as far as we may on the North ſide; but after ſuch a manner that the ſloping ſide of the wound be not too ſtraight downward, to the end that the knot be not endammag'd; otherwiſe the eye which ought to puſh forth wood, being cut too much by the ſlope of a too ſtreight deſcent (chiefly in tender Trees) will not puſh forth at all or weakly, and will communicate ev'n to five or ſix eyes the evil of a wound ill made.</p>
+               <p>We muſt further remember to cut always a Branch near a Wood-bud, and never near a Flower-bud; becauſe in this laſt Lop<g ref="char:EOLhyphen"/>ping, the Fruit which would come there, would not be ſecured by the Leaves againſt the injury of the Air. Moreover the Branch
+<pb n="7" facs="tcp:101943:8"/>would be expos'd to the Air, and finally the wound would not cloſe it ſelf, nor e<g ref="char:EOLhyphen"/>ver come to an Eſchar the Pears carrying a<g ref="char:EOLhyphen"/>way all the Sap, that ought to make it:</p>
+               <p>We ought not moreover to leave a Stub to a Branch which we cut at a Wood-bud, that we may give way to the Branch to cloſe it ſelf in a ſhort time by the ſprout that ought to grow there; I ſay not the ſame of a Branch which we cut an Eye or two from the Trunk; this may put forth near the Stub, which we leave there, ſome Fruit. buds, or ſome Branches which will have diſpoſitions to produce them, at leaſt if the Branch be little or of a mean ſize; for if it be great, it ought to be cut near the Tree. If in Lopping where we leave a Stub, no<g ref="char:EOLhyphen"/>thing ſhoots forth there, the year follow<g ref="char:EOLhyphen"/>ing the Stub muſt be cut ſmooth to the Tree.</p>
+               <p>I ſpeak not here only of Fruit with Ker<g ref="char:EOLhyphen"/>nels, we ought ev'n to leave a Stub to Fruits with Stones, not to make them puſh forth Wood there, for this is not their Ge<g ref="char:EOLhyphen"/>nius, but to keep them from being cor<g ref="char:EOLhyphen"/>rupted by the Weather, and not to cauſe them to puſh forth Gum there, which is their Sap, and in this occaſion their Capi<g ref="char:EOLhyphen"/>tal Enemy.</p>
+               <p>When the little Branches are too con<g ref="char:EOLhyphen"/>fus'd, care muſt be taken to cut them off
+<pb n="8" facs="tcp:101943:9"/>an Eye or two from the main Branch, or near the Trunk as I have ſaid, both to disburthen the Tree, and to make it puſh forth ſome Branches anew, but after ſuch a manner, that there be always room for placing the Sprig which will come.</p>
+               <p>We ought alſo to Obſerve that to fill out a Tree well, its Branches ought not to be diſtant from each other above a Fingers breadth.</p>
+               <p>You muſt never cut Fruit-buds whatever reaſons are alledged thereon; Trees at that time do what they are ordain'd for, by diſ<g ref="char:EOLhyphen"/>playing their Riches, and Nature gives us what we demand of her for recompence of our cares and Labours.</p>
+               <p>We know a Fruit-bud by its Figure, by the ſmall bearer where it comes, by the motion it makes in the ſhoot of the Tree or finally by the abundance of Leaves that accompany it.</p>
+               <p>If a little and long Branch be well ſtor'd with Flower-buds, do not cut any of them (I ſay it once again) and do not ſo much as touch the Branch, wait rather till the Flowers are come forth of the Bud to de<g ref="char:EOLhyphen"/>ſtroy them, or till the Fruit are kern'd to cut with Sciſſars the Stems of the leaſt and worſt form'd; by this means you will not cut away the Bud which will produce o<g ref="char:EOLhyphen"/>ther
+<pb n="9" facs="tcp:101943:9"/>Fruit the following years when the Branch has fortified it ſelf.</p>
+               <p>Nevertheleſs, if for ſome great reaſon, we are Obliged to cut Flower-buds in a Branch bared of ſhoots, for drawing thither the Sap, and to cauſe ſome void ſpace to be fill'd, and that there are no other Branches found for ſupplying this Default, we muſt cut the Branch at a Wood-knot to fill out the Tree, and we muſt take good heed not to cut it near the Flower or Fruit-buds, for the reaſons which we have mentioned, and after this we muſt take away the Fruit-buds to give it more ſtrength to puſh forth.</p>
+               <p>The old Buds which have yielded Fruit for many years together, and which give us no longer hope of producing more, muſt be cut away to embelliſh the Tree, and to disburthen it of ſomewhat which is uſeleſs and ſuperfluous.</p>
+               <p>The bearers which are two, three, or four Inches long are the beſt, eſpecially when they Iſſue from the great Branches near the top of the Tree; they bring forth many years one after the other, and bear very great Fruit. Thoſe which are bared of Branches laſt indeed a long time; but they do not bear ſo Beautiful Fruit, and often they are drain'd, unleſs you cut the Stems of the Pears with Sciſſars; and thoſe which are
+<pb n="10" facs="tcp:101943:10"/>not above a nail in length, and which come from the Trunk, bring forth very great Fruit; but ordinarily they laſt but a year</p>
+               <p>A Shoot of <hi>Auguſt</hi> never yields Fruit, the Wood is not then well fill'd with Sap, it ought always to be cut away, unleſs it be extreamly neceſſary for filling a void ſpace.</p>
+               <p>If a uſeleſs or irregular Branch grows be<g ref="char:EOLhyphen"/>hind, it is always cut away, ev'n tho' it has on it a Flower-bud; for the Fruit which would come of it, would be ſpoil'd by the ſhadow of the Tree, and would be good for nothing: if it be before, we cut it an Eye or two from the Mother Branch, to try to make ſome Flower-buds ſpring forth there.</p>
+               <p>A Branch bent by force bears much Fruit, but it is ſmall, unleſs it were plyed ſo the firſt year; the reaſon is evident, its Fibres are bent, and the Sap does not carry it ſelf briskly to it.</p>
+               <p>Sometimes forked ſprouts, or knots of Scions ſhoot forth from certain places of Trees, when they are Old and at a ſtand that they need to be cut to renew them. In this occaſion we ought to cut at a good length a Maſter Sprig in Pear-trees and Apple-trees, and to cut ſome an Eye or two from the Mother Branch, and cut others near the Trunk, but in Necta<g ref="char:EOLhyphen"/>rin
+<pb n="11" facs="tcp:101943:10"/>and Peach-trees, we ought to cut all the leſſer Branches an Eye or two from the Mother Branch, and let the longeſt and ſtreighteſt run on, tho' it would be the ſhor<g ref="char:EOLhyphen"/>teſt way in theſe laſt Trees, to cut a great Branch near the Trunk, or to cut the Trees two or three Fingers breadth from the Earth to renew them.</p>
+               <p>You muſt cut one Branch ſhort betwixt two long to fill out the Tree. The year following the ſhort Branch muſt be cut long, and the long ſhort: It is the ſecret to have much Fruit, and to preſerve Trees; there are ſome who ſay that a Tree Lopt after that manner is not agreeable to behold: but I deſire them to ſtay to conſider them till the Month of <hi>May;</hi> and I am well aſ<g ref="char:EOLhyphen"/>ſur'd they will change their ſentiment.</p>
+               <p>A Tree is ordinarily compos'd of three ſorts of Branches, we find on it <hi>Ravenous</hi> or <hi>Prodigal, Indifferent,</hi> and <hi>Fertile.</hi>
+               </p>
+               <p n="1">1. The <hi>Ravenous</hi> grow moſt common<g ref="char:EOLhyphen"/>ly at the top of the Tree, and ſometimes they ſpring from an Old Branch; they are finely even and without Moſs, greater and more ſmooth than the others.</p>
+               <p n="2">2. The <hi>Indifferent</hi> are of a mean ſort, among which there are ſometimes ſome well ſupply'd with Juice, they bearing ſome<g ref="char:EOLhyphen"/>times Fruit within three or four years.</p>
+               <p n="3">3. The <hi>Fertile</hi> are ordinarily ſmall, and
+<pb n="12" facs="tcp:101943:11"/>growing athwart; ſometimes there are found of them great and long; they always bear Fruit; there are counted five ſorts of them.</p>
+               <p n="1">1. The firſt have in their ſource, and in the place whence they ſpring, little Wrink<g ref="char:EOLhyphen"/>les like Rings; which ſhew that in this place there are tranſverſe Fibres in the Wood. Its in theſe Fibres where is made a ſlow circulation of the Sap of the Tree, which produces the Flower-bud, where<g ref="char:EOLhyphen"/>as when the Fibres are all ſtreight, the Sap is carryed upward vigorouſly and with<g ref="char:EOLhyphen"/>out reſiſtance, and not ſtaying it ſelf in a<g ref="char:EOLhyphen"/>ny place, it produces nought but Wood: We may Obſerve theſe tranſverſe Fibres in cutting the Wood where there are of theſe Rings, the cut will not be cloſe and even as elſewhere.</p>
+               <p>The Figure following will Repreſent to you the Fertile Branch.</p>
+               <pb n="13" facs="tcp:101943:11"/>
+               <figure>
+                  <p>
+                     <hi>Fig. 1</hi>
+                  </p>
+               </figure>
+               <p>
+                  <hi>A.</hi> The Wrinkles and Rings of a Branch of a <hi>Bon-Chrêtien</hi> Pear-tree.</p>
+               <p n="2">2. The Second Fertile ſprouts have no Rings in their Origine, where they Iſſue from their Mother Branch; but they have in the middle, that is to ſay, when an In<g ref="char:EOLhyphen"/>different Branch, having not been cut in <hi>Fe<g ref="char:EOLhyphen"/>bruary,</hi> ſhoots forth Wood in <hi>May,</hi> and forms Wrinkles at the beginning of its ſhoot; or when a Branch in its middle forms Rings betwixt the end of its ſhoot of <hi>May,</hi> and the beginning of that of <hi>June,</hi> which may be known eaſily, if a Man will make the expe<g ref="char:EOLhyphen"/>riment; for in cutting the wood in this place, as I ev'n now mention'd, the cut will not ap<g ref="char:EOLhyphen"/>pear
+<pb n="14" facs="tcp:101943:12"/>pear ſmooth as elſewhere, but uneven by the tranſverſe Fibres that are there.</p>
+               <p>The following Figure Repreſents the Second Fertile Branch in a <hi>Bon-Chrêtien.</hi>
+               </p>
+               <figure>
+                  <p>
+                     <hi>Fig. 2</hi>
+                  </p>
+               </figure>
+               <p>
+                  <hi>A.</hi> Rings, and Wrinkles at the begin<g ref="char:EOLhyphen"/>ning of the Shoot of <hi>May,</hi> or betwixt the end of the Shoot of <hi>May,</hi> and the begin<g ref="char:EOLhyphen"/>ning of that of <hi>June.</hi>
+               </p>
+               <p n="3">3. The third kind of Fertile Branches Iſ<g ref="char:EOLhyphen"/>ſues from a Flower-Bud, which has fail'd to blow ſometimes for outward cauſes, and often through the abundance of the Sap of the Tree: They Iſſue alſo from a Bud which has yielded Pears; they are call'd Fertile, becauſe they come of a Flower or Fruit-bud which experience diſ<g ref="char:EOLhyphen"/>covers
+<pb n="15" facs="tcp:101943:12"/>to us to have tranſverſe Fibres.</p>
+               <p>The third Figure ſhews it us in a little Branch with Flower and Fruit-buds of a <hi>Bon-Chrêtien.</hi>
+               </p>
+               <figure>
+                  <p>
+                     <hi>Fig. 3</hi>
+                  </p>
+               </figure>
+               <p>
+                  <hi>A.</hi> The Bud which has yielded Pears, or has fail'd to blow.</p>
+               <p>
+                  <hi>B.</hi> The Fertile Branch which we muſt let grow on.</p>
+               <p>
+                  <hi>C.</hi> The leſſer Branch which we muſt cut away.</p>
+               <p>
+                  <hi>D.</hi> Where it ought to be cut at two knots.</p>
+               <p>
+                  <hi>E.</hi> The Bearer.</p>
+               <p n="4">4. The Fourth kind of Fertile Branches are thoſe which the year before were In<g ref="char:EOLhyphen"/>different, and which are become Fertile through the little Sap that is come to them, and by the Buds which are grown to a ful<g ref="char:EOLhyphen"/>neſs.</p>
+               <p n="5">
+                  <pb n="16" facs="tcp:101943:13"/> 5. Finally, the Fifth are thoſe which have a Flower-bud at the end of the Branch.</p>
+               <p n="1">1. Of theſe three ſorts of Branches, that is to ſay, of the Prodigal, Indifferent, and Fertile, the Prodigal are always cut very ſhort at the firſt or ſecond knot, to make the Sap paſs to another ſide of the Tree, and produce there Branches Indifferent or Fertile. This Lopping reiterated many times, makes the Prodigal Dye, or at leaſt<g ref="char:EOLhyphen"/>wiſe hinders the Tree from puſhing them ſo vigorouſly. Its by reaſon of this experi<g ref="char:EOLhyphen"/>ment that we ought not to cut Trees much, becauſe by cutting them in all their Branch<g ref="char:EOLhyphen"/>es, they are made to Languiſh and after<g ref="char:EOLhyphen"/>wards to Dye. The Prodigals which have been cut many times the precedent year, ought to be Lopt at the firſt knot near the Mother Branch whence it grows, as the Fourth Figure ſhews.</p>
+               <pb n="17" facs="tcp:101943:13"/>
+               <figure>
+                  <p>
+                     <hi>Fig. 4</hi>
+                  </p>
+               </figure>
+               <p>
+                  <hi>A.</hi> A Prodigal cut in <hi>February</hi> at the Se<g ref="char:EOLhyphen"/>cond knot.</p>
+               <p>
+                  <hi>B.</hi> A Prodigal cut in <hi>June</hi> at the Second knot.</p>
+               <p>
+                  <hi>C.</hi> A Shoot of the Prodigal in <hi>July</hi> which has not been cut, becauſe it has ſhot very little.</p>
+               <p>
+                  <hi>D.</hi> Where we muſt cut a Prodigal in <hi>February,</hi> of the following year at the firſt knot.</p>
+               <p>Lop therefore the top of the Tree, where the Prodigal Branches are Ordinarily found, and ſpread it at the bottom and at the ſides; this Lopping gracefully fills a Tree, and hinders it from Growing to too great a height and from deſtroying it ſelf in a ſhort time.</p>
+               <p n="2">2. As for the Indifferent Branches, ſome
+<pb n="18" facs="tcp:101943:14"/>of them ought to be Lopt, others not; that is to ſay, we ought in the Month of <hi>Febru<g ref="char:EOLhyphen"/>ary</hi> to let thoſe grow on which have Buds for Wood very near each other, and which iſſue from a good place, as alſo thoſe which have two great Leaf-buds which touch each other at the end of the Branch; to the end we may know their Geni<g ref="char:EOLhyphen"/>us at the Lopping of <hi>June.</hi> The great<g ref="char:EOLhyphen"/>eſt and beſt ſupply'd with Juice will be the beſt for keeping. The Indifferent which we ought to cut at the third or fourth knot, are thoſe which are leaſt diſ<g ref="char:EOLhyphen"/>pos'd to bear Fruit, and which have the Leaf-buds far from one another.</p>
+               <p n="3">3. The Fertile ought never to be Lopt, tho' they are as long as the Arm; Trees left to run up from which we Lop no Branches and which bear ſo much Fruit, ſhew us well that we ought never to Lop the Fertile: nevertheleſs, if there be need of them for filling up a void ſpace where it happens, and that no other Branch can be found for this purpoſe, I permit them to be cut for embelliſhing the Tree.</p>
+               <p>And to explain my ſelf farther in ſpeak<g ref="char:EOLhyphen"/>ing concerning a Fertile Branch, I ſay that that which has Rings in its ſource, Wrink<g ref="char:EOLhyphen"/>les at the beginning of its ſhoot of <hi>May</hi> or of <hi>June,</hi> or finally knots near each o<g ref="char:EOLhyphen"/>ther, ought not to be cut without a great
+<pb n="19" facs="tcp:101943:14"/>neceſſity; for experience has taught me that all theſe Branches bear Infallibly their Fruit toward the end of their Branches, which our ill Gardiners always cut away. So at the beginning of <hi>February</hi> Obſerve exactly the end of the ſhoots of the prece<g ref="char:EOLhyphen"/>dent year, that you may always cut the Branch when the Saps are at a ſtand at the firſt or ſecond knot in the Wood which comes after, and to leave all the knots which will be as many Flower-buds, that will not fail to form themſelves there in two or three years. Its an Obſervation which will embelliſh your Trees by the abundance of Fruits which they will pro<g ref="char:EOLhyphen"/>duce. That which I ſay being ſomewhat difficult to comprehend without ſeeing it, the fifth Figure will make you under<g ref="char:EOLhyphen"/>ſtand it.</p>
+               <pb n="20" facs="tcp:101943:15"/>
+               <figure>
+                  <p>
+                     <hi>Fig. 5</hi>
+                  </p>
+               </figure>
+               <p>
+                  <hi>A.</hi> The Lop of <hi>February</hi> in an Indiffe<g ref="char:EOLhyphen"/>rent Branch.</p>
+               <p>From <hi>B.</hi> to <hi>C.</hi> three Branches of the ſhoot of <hi>May.</hi>
+               </p>
+               <p>
+                  <hi>D.</hi> The Lop of <hi>June</hi> in Indifferents.</p>
+               <pb n="21" facs="tcp:101943:15"/>
+               <p> From <hi>D.</hi> to <hi>E.</hi> The ſhoot of <hi>June.</hi>
+               </p>
+               <p>From <hi>E.</hi> to <hi>F.</hi> The ſhoot of <hi>Auguſt,</hi> the Wood of which is very full of Sap.</p>
+               <p>
+                  <hi>G.</hi> Where we muſt Lop in <hi>February,</hi> of the following year when the Saps are at reſt.</p>
+               <p>
+                  <hi>H.</hi> Where in two years Fruit-buds will be form'd in a Branch which from in<g ref="char:EOLhyphen"/>different is become Fertile.</p>
+               <p>The Fertile Branches which Iſſue from a Bud which has yielded Fruit, and which have not been cut at the beginning of <hi>May,</hi> ought not to be cut in <hi>February,</hi> unleſs they are double. In this occaſion we muſt let run the better, and Lop the other at the firſt or ſecond knot. Experi<g ref="char:EOLhyphen"/>ence has taught me that theſe Branches ne<g ref="char:EOLhyphen"/>ver fail of bearing Fruit the ſecond or third year. See the third Figure.</p>
+               <p>Finally, the ſame Experience has taught me that the Fruit-buds which come at the end of the Branches in Trees whoſe Geni<g ref="char:EOLhyphen"/>us is often to bear their Fruit in this place, ought not to be cut, eſpecially if they produce little, and we ſhould have but few <hi>Gracioli, Coins Francs,</hi> nor <hi>Grenades d'Eſpagne,</hi> if we ſhould cut theſe ſorts of Trees at the end of their Branches.</p>
+               <p>It is ſaid that the Fruits which come at ends of Branches are ſmall, and that the Wind blows them down. I own that the firſt default is without remedy, but the
+<pb n="22" facs="tcp:101943:16"/>Second is not ſo, for we may bind up the Branch laden with Fruit againſt the Wind. Nature doing well what ſhe does, when ſhe places a Fruit-bud at the end of a Branch of a Pear-tree, has an intent to render this Branch Fertile; for the Fruit which ſhe produces there, ſeals that Branch, and hinders it from puſhing forth afterward; this Branch receiving not then much Sap, forms in all its length an Infi<g ref="char:EOLhyphen"/>nite number of Fruit-buds, and two or three years after it is all deckt with them; which it continues to do for five or ſix years following, till the Branch is worn out; if this Flower-bud be cut away the Sap will come freely and vigorouſly into the Branch cut, and inſtead of the Fruit which Nature had there deſign'd, we ſhall have nought but Wood through the Gar<g ref="char:EOLhyphen"/>diners Ignorance.</p>
+               <p>When we will have larg Fruit, eſpeci<g ref="char:EOLhyphen"/>ally in the <hi>Bon-Chretien</hi> and in other Trees, which bear great, we ought to Lop ſhort, the nearer the Fruit-buds are to the Trunk, the greater the Fruit is, for it receives more of the Juice.</p>
+               <p>There are Gardiners who make the Buſh of a Tree too thin by cutting away the little Branches, and leaving the Trunk al<g ref="char:EOLhyphen"/>moſt bare: we might leave in it ſome clear ſpace in the middle and the ſides, to
+<pb n="23" facs="tcp:101943:16"/>give entrance to the Sun which muſt co<g ref="char:EOLhyphen"/>lour the Pears, but we ought not to cut it too much: the ſhadow of the Leaves ought to ſecure the Trunk of the Tree a<g ref="char:EOLhyphen"/>gainſt the parching heat of the Sun which makes it chop, and which breeds the Scab and the Canker by the dryneſs of its Bark. True it is that we ought to cut ſhorter Trees with a round Buſh head than <hi>Eſpaliers,</hi> and that we ought not to let them run up too much: In a ſtrong and moiſt Soil we muſt keep a Buſh head thin<g ref="char:EOLhyphen"/>ner of Branches than in another Soil, which is poor and dry; but in all places we ought to keep it well filled, and not cut away the Branches in the midſt of it as much as is done at this day.</p>
+               <p>The niceſt Trees do not delight in this Figure, Pear-trees do not much take to it, and Apricock-trees leſs. Trees Grafted on the great Quince-tree, are more proper for it than thoſe which are Grafted on a Pear-tree, theſe later cannot be reduc't, the more you cut them the more they ſhoot of Wood; and beſides with this, they do not bring forth much Fruit, their nature being to be always high.</p>
+               <p>Cherry-trees which bear ſharp Cherries, grow very well with a Buſh head, provi<g ref="char:EOLhyphen"/>ded that they are Grafted on the ſmall bitter Cherry-tree; and they take to it
+<pb n="24" facs="tcp:101943:17"/>better yet if they are permitted to grow up, for they do not much delight in the Pruning-knife, and leſs when they are old.</p>
+               <p>The Plum-tree is of the ſame nature with the Cherry-tree; it is ordered alſo after the ſame manner.</p>
+               <p>We ought rather to cut a Branch a<g ref="char:EOLhyphen"/>way, than to cut it in many places; the divers wounds which we give Trees, de<g ref="char:EOLhyphen"/>cay them, and make them dye languiſh<g ref="char:EOLhyphen"/>ing, witneſs the <hi>Prodigal,</hi> which we kill by often cutting.</p>
+               <p>Experience has taught me for many years following, that Fruit with ſtones (that is to ſay the Apricock-tree, the Ne<g ref="char:EOLhyphen"/>ctarin, and the Peach-tree) ought not to be Lop't as Pear-trees.</p>
+               <p>We ought only to cut away Branches, and ſometimes the greateſt to make them renew themſelves: and contrary to the cuſtome of other Trees, they bear in young ſhoots which lade themſelves with Fruit the firſt year. Its after this manner that they laſt Twenty or Thirty years; the more therefore that a Peach-tree ſhoots forth, the more Fruit it bears.</p>
+               <p>We never ought in theſe Sorts of Trees to cut a Branch in the middle, tho' the Apricock-tree is not ſo much damnified by it as the others; becauſe they have a larg
+<pb n="25" facs="tcp:101943:17"/>Pith very ſuſceptible of the injuries of the Air. The wound often cauſes five or ſix knots to dye in a Branch, which has been cut after that manner, and by taking off with the Pruning-knife the end of the Branch, as is ordinarily done, we carry a<g ref="char:EOLhyphen"/>way at the ſame time the Fruit that ought to form it ſelf there, and we leave but an end of a Branch which brings nought but Wood.</p>
+               <p>I ſay it once again; the Fruit comes but at the end of the ſhoot of the two firſt Saps; if we Lop away this end, we car<g ref="char:EOLhyphen"/>ry away the Fruit, and we blockiſhly de<g ref="char:EOLhyphen"/>prive our ſelves of that which we ſeek with ſo much paſſion. Its a remark which we ought well to Obſerve, for the Sap ha<g ref="char:EOLhyphen"/>ving ſpent and as it were wearied it ſelf after having paſt all along a Branch, does not exert it ſelf with ſo much vigour, and its motion is not ſo impetuous, nor ſo nim<g ref="char:EOLhyphen"/>ble at the end of a Branch as in the begin<g ref="char:EOLhyphen"/>ning of it; alſo it employs it ſelf rather to form Buds for Flowers when it acts mild<g ref="char:EOLhyphen"/>ly, than when it agitates it ſelf with ſo much praecipitation.</p>
+               <p>Becauſe Fruit with Stones ſhoot more briskly and more in confuſion than Pear-trees, we muſt alſo take good heed to Lop them with diſcretion. Theſe Trees having ſhot forth vigorouſly a Branch during one
+<pb n="26" facs="tcp:101943:18"/>year, and having produced Fruit there, loſe their force in this ſame Branch the year following, and ſhoot forth nought but Sci<g ref="char:EOLhyphen"/>ons here and there, but which are laden with an infinite number of Fruit; and the greateſt part of theſe ſame Scions dye the year following as well as all the annual buds of the Tree. When a great Branch is old we ought to cut it in its Source, as you may ſee in the Figure following.</p>
+               <pb n="27" facs="tcp:101943:18"/>
+               <figure>
+                  <p>
+                     <hi>Fig: 6</hi>
+                  </p>
+               </figure>
+               <p>
+                  <hi>A.</hi> Wood worn out of three or four years.</p>
+               <pb n="28" facs="tcp:101943:19"/>
+               <p> 
+                  <hi>B.</hi> The place where it ought to be cut.</p>
+               <p>
+                  <hi>C.</hi> Young Wood of the year which ought not to be cut in the middle.</p>
+               <p>
+                  <hi>D.</hi> Flower or Fruit-buds of the prece<g ref="char:EOLhyphen"/>dent year, which are dry.</p>
+               <p>The Nectarine and the Peach-tree, be<g ref="char:EOLhyphen"/>ing of the nature of thoſe Trees which ſhoot much in their tops, we muſt not hope to be able to ſubdue them as Pear<g ref="char:EOLhyphen"/>trees, and force them to fill themſelves well in the lower part: if we Lop them as theſe Trees, that is to ſay, if we Lop their Branches in the middle we hinder them indeed from ſhooting in their tops, but they do not fill themſelves for this in their low<g ref="char:EOLhyphen"/>er part; they mount always, and by cut<g ref="char:EOLhyphen"/>ting them after that manner, no Fruit comes of it, and we kill them in a ſhort time.</p>
+               <p>In general, the Plum-tree and the Cher<g ref="char:EOLhyphen"/>ry-tree delight more in Lopping than the Apple-tree: but all three of them do not delight in it as much as the Pear-tree, which is the only Tree that endures it beſt. We muſt take nought from theſe three firſt Trees but the dead Wood, unleſs we will form them at firſt for <hi>Buſh-trees</hi> or <hi>Eſpa<g ref="char:EOLhyphen"/>liers.</hi>
+               </p>
+               <p>Becauſe the Corand-tree has much Pith, and that it comes eaſily of a ſlip, its na<g ref="char:EOLhyphen"/>ture does not endure it to be Lopt in the middle of its Branches, no more than the
+<pb n="29" facs="tcp:101943:19"/>Peach-tree; above all we muſt take good care of cutting it, when we ſet it. We ought in an old Corand-tree to cut near the Root a Branch paſt bearing, in order to renew it, and to cut alſo from the low<g ref="char:EOLhyphen"/>er part ſome young ſhoots of the year to hinder it from being too much con<g ref="char:EOLhyphen"/>fus'd. The young ſhoots which we pre<g ref="char:EOLhyphen"/>ſerve, ſerve to renew it when we cut it in its old Wood. Nevertheleſs, tho' it does not delight in being Lopt, we make Buſh<g ref="char:EOLhyphen"/>es of it, and form it in an Eſpalier, which is beautiful to behold, at the time that it is laden with Fruit.</p>
+               <p>I ſay the ſame of the Mulberry-tree, and of the Fig-tree, which cannot endure the knife by reaſon of the abundance of their Pith; the laſt eſpecially is viſibly damnified by it, unleſs we Lop from them great uſe<g ref="char:EOLhyphen"/>leſs Branches, for rendring them regular: and neither of them can be made to grow low, they love too much the free and o<g ref="char:EOLhyphen"/>pen Air.</p>
+               <p>Medlar-trees and Service-trees natural<g ref="char:EOLhyphen"/>ly grow high, the former endure the knife much more than the latter.</p>
+               <p>The Portugal Quince-trees, and the Pome<g ref="char:EOLhyphen"/>granate-trees of <hi>Spain</hi> will not be Lopt, becauſe they bear their Fruit at the end of their Branches. Nevertheleſs we may take from them entire Branches, which cauſe a
+<pb n="30" facs="tcp:101943:20"/>confuſion, and which are old; and cut near the Trunk the uſeleſs Prodigals, which are uſual enough in theſe ſorts of Trees. As for the other Prodigals which embelliſh the Tree, and which in four or five years will yield Fruit, we ought not to Lop them.</p>
+               <p>Care muſt be taken to cover the great Wounds of Trees with a Plaiſter made of a pound of <hi>Drogue a flambeau,</hi> four Oun<g ref="char:EOLhyphen"/>ces of Roſine, and two Ounces of Sheeps Sewet. When we walk in our Garden in a fine day of the Month of <hi>April,</hi> we muſt have in our hand a Magdaleon of the Plai<g ref="char:EOLhyphen"/>ſter ev'n now mentioned, we muſt cut a little of it with a knife, and after having wrought it betwixt the moiſtn'd Fingers, for rendring it a little ſoft, we muſt apply it on the great Wounds, which we had for<g ref="char:EOLhyphen"/>got to ſeal in the Month of <hi>March.</hi> And to the end that this Plaiſter may keep the longer on the Wounds, we muſt put on it a bit of paper as a binder, which we muſt preſs on ſoftly with the Finger, to the end that the heat of the Summer making the Plaiſter melt, the paper may preſs it, ſtay it, and glew it more to the Wood: it is what we ought to do in the two other Loppings following.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="31" facs="tcp:101943:20"/>
+               <head>CHAP. II. <hi>The Lopping of Fruit-trees, at the be<g ref="char:EOLhyphen"/>ginning of the Month of</hi> May.</head>
+               <p>PRoperly ſpeaking, it is not a Lop<g ref="char:EOLhyphen"/>ping that is done to Trees at this time; they are as yet in the motion of their Sap. We cut but Scions; which tho' Fertile of themſelves, bring in the mean time a great prejudice to the Fruit; at the beginning of <hi>May</hi> we muſt therefore take a particular care to cut away the uſeleſs Branches which grow by the Buds for Fruit, and eſpecial<g ref="char:EOLhyphen"/>ly in Pear-trees; that is to ſay, to cut a<g ref="char:EOLhyphen"/>way at the ſecond knot a little Scion which comes among the cluſters of Pears: to de<g ref="char:EOLhyphen"/>lay this is not good, the Sap which ought to Communicate it ſelf to the Fruit, is car<g ref="char:EOLhyphen"/>ried into the ſhoot, which draws a part of the humour of the Fruit-bud, where the Pears are faſtn'd, which cauſes either that their Stem drys for want of Sap, or that they come very ſmall.</p>
+               <pb n="32" facs="tcp:101943:21" rendition="simple:additions"/>
+               <p> You may ſee what I mean in the follow<g ref="char:EOLhyphen"/>ing Figure.</p>
+               <figure>
+                  <p>Fig. 7</p>
+               </figure>
+               <p>
+                  <hi>A.</hi> A ſhoot which comes on the Fruit<g ref="char:EOLhyphen"/>bud through the abundance of the Sap.</p>
+               <p>
+                  <hi>B.</hi> The place where you muſt cut it.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="33" facs="tcp:101943:21"/>
+               <head>CHAP. III. <hi>The Lopping of Fruit-trees at the be<g ref="char:EOLhyphen"/>ginning of</hi> June.</head>
+               <p>IN the Decreaſe of the Moon of <hi>May,</hi> which happens often in <hi>June,</hi> you muſt Lop Trees for the ſecond time; but with more moderation than in <hi>February:</hi> for we ought never in <hi>June</hi> to cut great Branch<g ref="char:EOLhyphen"/>es, and properly ſpeaking, it is but a re<g ref="char:EOLhyphen"/>lopping of Trees.</p>
+               <p>We muſt wait above all till the Sap be ended, according to the Maxim which we have alleag'd before, and it will be good to repeat it here: <hi>Lop in Fair wea<g ref="char:EOLhyphen"/>ther, in the Decreaſe of the Moon, at the end of the Saps; or rather when Trees are at reſt.</hi>
+               </p>
+               <p>The reſt of a Tree is known by a bud Garniſh't ordinarily with two Leaves, which forms it ſelf at the end of the Branches, and we obſerve chiefly this bud at the end of <hi>May,</hi> or at the beginning of <hi>June,</hi> that is to ſay, after the firſt Sap or ſhooting.</p>
+               <pb n="34" facs="tcp:101943:22"/>
+               <p> The ſecond Sap or ſhooting of Trees begins ordinarily in the middle of <hi>June,</hi> and ends a Month after, towards <hi>Mag<g ref="char:EOLhyphen"/>dalen</hi>-tide, ſo that betwixt the end of the firſt Sap, and the beginning of the ſecond there is about a Month: and its at this time that we muſt cut Trees again.</p>
+               <p>The effect of this re-cutting is to make the Buds of the firſt Sap to fill up, to force Trees to make Fertile Branches, or to form Flower-buds for the following year; whereas the Lop of <hi>February,</hi> fur<g ref="char:EOLhyphen"/>niſhes but Wood to yield Fruit three years after, if we except the <hi>Orange,</hi> the <hi>Berga<g ref="char:EOLhyphen"/>mot,</hi> the <hi>Double-flower,</hi> the <hi>Summer Bon-Chretien,</hi> and ſome others.</p>
+               <p>You ought here to call to mind that we have diſtinguiſht the Branches of Trees Into <hi>Prodigals, Indifferent</hi> and <hi>Fertile.</hi>
+               </p>
+               <p>There are few Trees Grafted on cultiva<g ref="char:EOLhyphen"/>ted Trees, and on Trees come of Kernels, which do not yield ſome <hi>Prodigal</hi> in the firſt Sap, and which do not continue even to yield of them in the others. Care muſt be taken therefore to cut them at the ſe<g ref="char:EOLhyphen"/>cond Leaf-bud, and thus to correct the ſhoot which tranſports it ſelf, and which draws a great part of the Sap of the Tree. On this matter you may ſee the fourth Figure.</p>
+               <p>As for Trees Grafted on the great Quince<g ref="char:EOLhyphen"/>trees, they have not often of theſe ſorts of
+<pb n="35" facs="tcp:101943:22"/>Prodigal ſhoots: and ſome Gardiners are ev'n of the mind that they ought not to be Lopt at this time, and that the tops of them ought only to be pincht off with the Nails.</p>
+               <p>We muſt not deal with the Indifferent Branches as with the Prodigal: for we ought to keep the beſt without touching them, and obſerve exactly thoſe which we permitted to run on in the Month of <hi>Fe<g ref="char:EOLhyphen"/>bruary.</hi> If theſe have good marks for pro<g ref="char:EOLhyphen"/>ving Fertile, we muſt cut nothing there; but if they have not, they muſt be cut ſhort enough to make them yield ſome; that is to ſay, they muſt be cut at the fifth or ſixth knot for Leaves: As for the other <hi>Indifferents,</hi> we ought to cut them at half a foot, or ev'n a foots length, for rendring them Fertile the year follow<g ref="char:EOLhyphen"/>ing. The <hi>Indifferents</hi> which we muſt not cut, have particular marks which we have obſerv'd in the firſt Chapter.</p>
+               <p>We ought not to touch the Fertile Branches for the reaſons mentioned elſe<g ref="char:EOLhyphen"/>where, unleſs it be ſometimes thoſe which Iſſue from a Flower-bud which has fail'd.</p>
+               <p>Before I paſs farther, it will be proper for me to explain my ſelf on what I pre<g ref="char:EOLhyphen"/>tend to ſay by a Flower-bud which has fail'd; and you muſt give me leave to make two ſorts of Flower-buds. One ſort is cer<g ref="char:EOLhyphen"/>tain
+<pb n="36" facs="tcp:101943:23"/>and never ſhoots forth Wood: they are theſe which will yield Fruit in a ſhort time. The others ſhoot forth Wood when the Sap abounds too much, or when we cut a Tree too ſhort, and that by this means we draw the Sap too much toward theſe ſorts of Buds. They are theſe Buds which will not blow under two or three years. Their Origine, their ſituation, and their Figure make them eaſily diſtinguiſha<g ref="char:EOLhyphen"/>ble to a Gardiner which has experience and a good ſence. This being thus eſtabliſht, I may ſay that a Scion which ſhoots in a Fruit-bud which has fail'd, is ſituated in a good place for being called Fertile as I have ſaid it elſewhere; and that if the Sap of the Tree had not been ſo abundant, to make this Bud ſhoot which yielded the Scion, doubtleſs this Bud would have be<g ref="char:EOLhyphen"/>come the year following a Flower-bud; beſides the Fibres of the Bud being tranſ<g ref="char:EOLhyphen"/>verſe, cauſe the Sap to circulate more ſlowly, and during all this time the Sun concocts and digeſts the humour to form there Fruit-buds for Fruit.</p>
+               <p>I though good to alledge all this, to ſhew the errour wherein ſome are, who will have us always to cut this Scion, ev'n when the Fruit has fail'd, and for this they call it a falſe and an ill ſhoot. But experi<g ref="char:EOLhyphen"/>ence has taught me that it has marks of
+<pb n="37" facs="tcp:101943:23"/>Fertileneſs, and that two years, or at far<g ref="char:EOLhyphen"/>theſt three years afterward, if it were not cut away, it would furniſh it ſelf with Flower-buds; and would bear during ſix or ſeven years an infinite number of Fruit.</p>
+               <p>If therefore the Flower-bud which is on a little bearer, that has fail'd, which would yield Fruit the next year or two years af<g ref="char:EOLhyphen"/>ter, ſhoots Wood; it ought to be cut ſhort in <hi>June,</hi> to make it form there Fruit-buds, which happens ſometimes otherwiſe through the abundance of the Sap; for a Scion or two form themſelves there as may be ſeen in the third Figure.</p>
+               <p>Nevertheleſs, there are ſome who will not have us to cut this Scion in <hi>June;</hi> they preſerve it for the Fruit, and cut it long in the Month of <hi>February</hi> following, or do not Lop them at all; and if there are two, they let the beſt grow, and cut the other an Eye or two from the Mother<g ref="char:EOLhyphen"/>Branch.</p>
+               <p>But however, I think we muſt here diſtinguiſh two ſorts of Scions which come in a Flower-bud which has fail'd. There are bearers and vigorous Buds, which ſhoot forth two or three Scions, whereof ſome are long and ſlender, others ſhort and ſlender, and others again ſhort and thick: We muſt not touch theſe laſt; becauſe moſt commonly a Flower-bud forms it ſelf there,
+<pb n="38" facs="tcp:101943:24"/>and we muſt not always cut the others an Eye or two from the Mother-Branch: If ſome diſpoſition for a Flower-bud forms it ſelf near the Scion, cut within an Eye or two of the Mother-Branch, we muſt ac<g ref="char:EOLhyphen"/>cept of it from the liberal hand of Na<g ref="char:EOLhyphen"/>ture; if none be form'd there, and that another Scion grows there, they muſt be leſt for the Months of <hi>July</hi> or <hi>February</hi> following. If the Bud which produces the Scion, be weak, we muſt not touch it, but we muſt preſerve the Scion for the Fruit, at leaſt if it appears well furniſht with Sap in <hi>Auguſt;</hi> for if we cut it, it will be at a ſtand and will not ſhoot.</p>
+               <p>We muſt cut larger in <hi>June</hi> than in <hi>Fe<g ref="char:EOLhyphen"/>bruary;</hi> becauſe it is at that time that we give the Figure to the Tree for the year following, and that we cauſe Fruit-buds to be form'd for two years after.</p>
+               <p>If Grafts within a cleft made in the top of a Stock; are vigorous the year that they are grafted, it is better (as ſome think) to pinch the ends of them away with the Nails at the beginning of <hi>June,</hi> than to cut them. But experience has taught me that if we deſign a Graft which ſhoots vi<g ref="char:EOLhyphen"/>gorouſly either for a Buſh head or for an <hi>Eſpalier,</hi> we ought to cut it at the New of the Moon, three or four Months after it is Grafted, to make it ſpread below,
+<pb n="39" facs="tcp:101943:24"/>and to ſecure it from the Wind: We gain a year by ſo doing.</p>
+               <p>As for Trees which we deſign to let run up to a height it will be good not to cut them at all till the ſecond year.</p>
+               <p>We muſt not touch the firſt year a Bud Crafted, be it never ſo vigorous; we muſt wait the year following to cut the Stump of the Tree come of Seed, mean, while care muſt be taken to ſtay it up againſt the Wind.</p>
+               <p>I repeat it once again here, that we ought never to cut Flower-buds, becauſe we take away the Buds which bring a great deal of Fruit during ſix or ſeven years fol<g ref="char:EOLhyphen"/>lowing. When the little Branches, where the Buds are fixt, are fortified by the hard<g ref="char:EOLhyphen"/>neſs of the Tree, it is then that we muſt no longer cut off with Sheers, neither Flowers nor Pears.</p>
+               <p>there are ſome who ſay, that we ought to cut Apricock, Nectarin and Peach-trees, four or five times a year, to wit, in <hi>Febru<g ref="char:EOLhyphen"/>ary,</hi> in <hi>May,</hi> in <hi>June,</hi> and in <hi>July:</hi> but Ex<g ref="char:EOLhyphen"/>perience has taught me, as well as Father <hi>Feüillant,</hi> who has writ of Fruit-trees, that theſe ſorts of Trees do not much love the knife; otherwiſe, they do not laſt long, and we deſtroy them in the end, by much cutting them: We are oblig'd in this Month to nale them up, and to cut at the ſame
+<pb n="40" facs="tcp:101943:25"/>time the Branches which cannot be apply'd to the Eſpalier. Some preſerve them to be eut in the Month of <hi>February,</hi> according to the Maxim that theſe ſorts of Trees, be<g ref="char:EOLhyphen"/>ing very nice, do not love to be cut, or rather, they pull away with the Finger the Branches, as faſt as they come againſt or<g ref="char:EOLhyphen"/>der, and in an Irregular place.</p>
+               <p>After the firſt Lopping of <hi>February,</hi> I am not of opinion that we ought to cut any thing from Apple-trees, or Plum-trees, or Chefry-trees, or Goosberry-trees, or Por<g ref="char:EOLhyphen"/>tugal Quince-trees, or Spaniſh Pomegranate<g ref="char:EOLhyphen"/>trees, unleſs we take from theſe two laſt Trees ſome <hi>Prodigals,</hi> which ordinaly grow there, and which do not fill, nor embelliſh the Tree.</p>
+               <p>Tho I reſolv'd to ſpeak here but of Lop<g ref="char:EOLhyphen"/>ping Trees, nevertheleſs it may be allow'd me to ſay ſomewhat curious concerning their watering, which contributes much to the abundance and greatenſs of their Fruit.</p>
+               <p>It will be proper in the Evening at Sun ſet, during the great heats of the Summer to ſprinkle with Water ſometimes the Branches and the Fruit of Trees with a <hi>Dutch</hi> Pump. The Tree will be greener, and the Fruit better ſupply'd with nouriſh<g ref="char:EOLhyphen"/>ment: it is far better to do ſo than to Wa<g ref="char:EOLhyphen"/>ter them at the Root; for this laſt wa<g ref="char:EOLhyphen"/>tering renders Peats unſavory, and of any ill
+<pb n="41" facs="tcp:101943:25"/>taſte, whereas the firſt, anſwering to an Evening Rain, or the due of the Night, keeps the Tree ſupply'd with nouriſhment, which afterwards gives its Fruit the Juice, which is meat for them, for rendring them good and delicious.</p>
+               <p>For this we ought to obſerve that the Water which we will make uſe of, ought to be drawn in the Morning, and to have been a little expos'd to the Sun, ſo that it ſhould not be cold in the Evening when we would uſe it: Moreover that the Pump has three or four little holes, that it may make the Water which iſſues from it to divide it ſelf into a Thouſand little drops. Finally, that we ought to place our ſelves at fifteen or twenty Foot from the Tree which we will Water.</p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="42" facs="tcp:101943:26"/>
+               <head>CHAP. IV. <hi>The Lopping of Fruit-trees at the end of</hi> July.</head>
+               <p>WE ſaid in the foregoing Chap<g ref="char:EOLhyphen"/>ter, that the ſecond Sap or ſhoot began in the middle of <hi>June,</hi> and ended at the end of <hi>July;</hi> and we ſay at preſent, that the third manifeſts it ſelf in the Month of <hi>Auguſt,</hi> and ſometimes in the Month of <hi>September</hi> according to the diſpoſition of the Air, and the difference of the ſeaſons: ſo that it is at the end of the ſecond Sap that we ought to meddle with Trees; for in the Month of <hi>Auguſt</hi> we muſt take good heed not to cut any thing there, and if we cut then any Branch, the Wound does not cicatrize it ſelf all the year, the heat drys it, and the approaching Winter incommodes it with the exceſs of its Rains and colds.</p>
+               <p>This Lopping is not performed but to cauſe the Branches to be fortified, to make the Flower-buds to fill themſelves, and to cauſe the Fruit to be nouriſht the more.</p>
+               <pb n="43" facs="tcp:101943:26"/>
+               <p> If we ought to be ſcrupulous in the Month of <hi>June</hi> to Lop Trees, we ought to be ſo for a much greater reaſon this Month, for at preſent we muſt but pinch away with the nails the ends of, or cut a little ſome Branches.</p>
+               <p>We muſt chooſe then in <hi>July</hi> a fine day and the decreaſe of the Moon to viſit the Trees: and we muſt call to mind the di<g ref="char:EOLhyphen"/>viſion which we have made of the Branch<g ref="char:EOLhyphen"/>es of Trees.</p>
+               <p>We muſt Lop again at the ſecond knot the Prodigals a third time, if they have ſhot vigorouſly, that we may wound ſo often the Branch which receives much of Sap, that its divers Wounds may weaken it, and divert by this means the Sap to o<g ref="char:EOLhyphen"/>ther places, that it may be divided into many Branches. Theſe Prodigals come not much but in Trees Grafted on the Pear<g ref="char:EOLhyphen"/>tree; and Planted in a good Soil, as I have ſaid: and ſo we muſt not ſeek for them elſewhere, for thoſe which are Graf<g ref="char:EOLhyphen"/>ted on the great Quince-tree do not ſhoot much: and in this Month we ought to cut nothing in theſe laſt ſorts of Trees.</p>
+               <p>In this Month we muſt not touch the In<g ref="char:EOLhyphen"/>different Branches, which we judg'd to be ſo in the Months of <hi>February</hi> and of <hi>June,</hi> we muſt ſtay till the Month of <hi>February</hi> fol<g ref="char:EOLhyphen"/>lowing to Lop them, if they ought to be Lopt.</p>
+               <pb n="44" facs="tcp:101943:27"/>
+               <p> Neither muſt we touch of thoſe which are Fertile: but concerning thoſe which iſſue from a Flower-bud which has faild, there are differing ſentiments. The ſhoot which iſſues from this Bud having been cut at the ſecond knot in the Month of <hi>June,</hi> ſhoots ſometimes at the ſecond Sap, and yields one or two Scions. Some will have it that we ſhould cut theſe alſo at the ſecond knot: becauſe they pretend that Nature ought to form there ſome diſpoſition to make Buds. Others Lop at the ſecond Eye the leaſt, and preſerve the faireſt and beſt fed and knotted, to ſee in <hi>February</hi> following if it will ſhew its Genius, and at that time they leave it all entire, becauſe it comes from a Fertile place, or cut it very long. They have ob<g ref="char:EOLhyphen"/>ſerv'd by experience that three years af<g ref="char:EOLhyphen"/>terwards it brings a great many Buds, whence iſſue an infinite number of Fruit.</p>
+               <p>If in this Month there are found ſome uſeleſs Branches beſides, they muſt be cut an Eye or two from the Mother-Branch, to make them ſhoot forth ſomewhat that is good.</p>
+               <p>There come often on Peach and Necta<g ref="char:EOLhyphen"/>rin-trees, and ſometimes on Pear-trees a cluſter of Branches, which happens often to Trees grown old, and fit to be cut for renewing themſelves. We muſt do at this
+<pb n="45" facs="tcp:101943:27"/>time as we did in the <hi>February</hi> before: that is to ſay, we muſt make choice of the Maſter Sprig to preſerve it, and cut away the others. Nevertheleſs there are ſome who ſtay till the Month of <hi>February</hi> enſu<g ref="char:EOLhyphen"/>ing to do this, becauſe that in <hi>July</hi> the heat penetrates to the quick into the Wounds of nice Trees; and beſides that which Trees ſhoot after this ſeaſon ought not to be preſerv'd. They cut therefore Trees at this time the leaſt they can, re<g ref="char:EOLhyphen"/>lying doubtleſs on experience which has obliged them ſo to do.</p>
+               <p>Toward Magdelan-tide, in the Decreaſe of the Moon, which happens in the Month of <hi>July,</hi> we muſt nail up again Peach-trees, Nectarin-trees, <hi>&amp;c.</hi> and we muſt cut all the Branches which are not flexible, and which are grown contrary to Order, tho' with this diligence, that we muſt cover as ſoon as may be with a Plaiſter, and paper the Wounds which have been there made.</p>
+               <p>Thoſe who are for the laſting of theſe Trees, pale them up at this time, but they ſtay to cut them till the Month of <hi>February;</hi> theſe ſorts of Trees (according to their ſentiment) being ſo nice, that they cannot endure the Summer, the great heat penetrating into their Wounds, cauſes five orſix Eyes to dye. Which we perceive dryed the year following:
+<pb n="46" facs="tcp:101943:28"/>this is the way (ſay they) to make them laſt forty years, as experience ſhews it. They choſe much rather (as I have ſaid) to pull away with the Finger, as they walk, the Branches which come contrary to order, than to cut them, and if there are found ſome which ought to be cut, they keep them for the Month of <hi>Fe<g ref="char:EOLhyphen"/>bruary</hi> following. Nevertheleſs, if they are too much confus'd, and that their ſhad<g ref="char:EOLhyphen"/>dow hinders the Sun from heating the Fruit, we ſhall be oblig'd to cut them a<g ref="char:EOLhyphen"/>way.</p>
+               <p>The abundance of Pears being ordina<g ref="char:EOLhyphen"/>rily the Enemy of Eſpaliers, and making the Trees often dye, we muſt cut with Sheers the middle of the ſtalk of the Pears, to disburthen the Trees. This ought to be done when the Fruit is a quarter or a third part as big as it ought. This Rule is only for great Winter-Fruit, and chiefly for the <hi>Bon-Chretien:</hi> we muſt obſerve al<g ref="char:EOLhyphen"/>ſo not to leave above one or two Pears on a weak Branch, a ſtrong one being a<g ref="char:EOLhyphen"/>ble to bear more.</p>
+               <p>Its alſo in this Month that Fruit enter in<g ref="char:EOLhyphen"/>to Juice, and begin to take a colour through the light of the Sun: but becauſe often there are Leaves, which hinder the rayes from touching the Fruit, care muſt be ta<g ref="char:EOLhyphen"/>ken in <hi>July</hi> to take away ſome from before
+<pb n="47" facs="tcp:101943:28"/>them, and in the Month of <hi>Auguſt</hi> fol<g ref="char:EOLhyphen"/>lowing we muſt cut away the reſt with Sheers, ſo managing the Light by rea<g ref="char:EOLhyphen"/>ſon of the burning heat of the Sun.</p>
+               <trailer>End of the Firſt Tract.</trailer>
+            </div>
+         </div>
+         <div type="glossary">
+            <pb n="48" facs="tcp:101943:29"/>
+            <head>An Explanation of ſome words which Gardiners make uſe of to expreſs themſelves in ſpeaking of Fruit-Trees.</head>
+            <p>
+               <hi>CAnker,</hi> or <hi>Scab</hi> is often caus'd by the heat of the Sun, or through the taint of the Tree which is in an ill Soil,</p>
+            <p>
+               <hi>Eſpalier,</hi> is an edge row of Fruit-trees ſet cloſe together, their Boughs interlac'd one within another, and held with Stakes, Railes, or Pales.</p>
+            <p>
+               <hi>Falſe Shoots,</hi> are little uſeleſs Branches, or Sprouts of the ſhoot of <hi>August,</hi> turning yellowiſh, and ill ſupply'd with Juice.</p>
+            <p>
+               <hi>Franc,</hi> is ſaid of Fruit, when they are cultivated and domeſtick, or of a Tree Grafted, or laſtly of a young Tree come of a Kernel, Sown, which has no thorns, and which has large Leaves, for there are excellent Fruit which come of Seed ſo Sown. We ſay to Graft a <hi>Franc</hi> on a <hi>Franc,</hi> Coin <hi>Franc.</hi>
+            </p>
+            <p>
+               <hi>Fertile,</hi> Fertile ſhoots are the Branches which always bear Fruit.</p>
+            <pb n="49" facs="tcp:101943:29"/>
+            <p> 
+               <hi>Indifferents,</hi> are Sprouts which ſometimes yield Fruit within three or four years. A knot is the place where a Tree ſhoots forth Wood.</p>
+            <p>
+               <hi>Prodigal</hi> or <hi>Ravenous,</hi> are great and ſmooth ſhoots, which draw the Sap of the Tree, and which bring not Fruit in a long time; they diſſipate all the ſubſtance of their Mother.</p>
+            <p>
+               <hi>Sap,</hi> is taken for the humour which riſes betwixt the Wood and the great Bark, by the little Bark which is betwixt both, it anſwers to the Blood of Animals: It is Ro<g ref="char:EOLhyphen"/>ſin in the Pine-tree, Turpentine in the Larch<g ref="char:EOLhyphen"/>tree, Gum in the Apricock and Cherry<g ref="char:EOLhyphen"/>trees, Milk in the Fig-tree, Water in the Vine and in the Pear-tree.</p>
+            <p>
+               <hi>Scion,</hi> is a little Fertile Branch.</p>
+            <p>
+               <hi>Void ſpaces,</hi> when there are no Branches to fill out the Eſpalier.</p>
+            <p>
+               <hi>Worms</hi> call'd <hi>Tygres, Lutins, Diablotins,</hi> are thoſe Worms which come in the Month of <hi>Auguſt</hi> and gnaw the Leaves of Trees; they have the Head great and black; the vapour of Quick Lime, or the decoction of Wormwood kills them.</p>
+         </div>
+         <div n="2" type="part">
+            <pb n="50" facs="tcp:101943:30"/>
+            <head>The Second PART. <hi>Of the uſe of the Fruits of Trees, for preſerving us in Health, or for Curing us when we are Sick.</hi>
+            </head>
+            <p>IT is not enough for us to have Writ con<g ref="char:EOLhyphen"/>cerning the Lopping of Trees, to have Fruit in abundance, we muſt alſo teach the way and the time of eating them without being offended thereby.</p>
+            <p>If our Stomach were as good as that of our Fore-fathers, it would be uſeleſs for us to Write on this matter; but becauſe it is weakn'd by the pleaſures which men of late have taken in their way of living, there ſeems an Obligation upon us to give precepts concerning the uſe of Fruits, ei<g ref="char:EOLhyphen"/>ther for preſerving us in Health, or for de<g ref="char:EOLhyphen"/>ſtroying our Diſeaſes when we are afflicted with them.</p>
+            <p>There is nothing ſo uſefull in Phyſick, as to know the qualities of things which we make uſe of in Life, either for avoid<g ref="char:EOLhyphen"/>ing
+<pb n="51" facs="tcp:101943:30"/>thoſe which offend us, or for taking thoſe which do us good: it is what has o<g ref="char:EOLhyphen"/>blig'd Learned men to deliver their ſenti<g ref="char:EOLhyphen"/>ments concerning all that we eat, they making uſe always of Reaſon and experi<g ref="char:EOLhyphen"/>ence, which we ſhall alſo follow in this Tract of <hi>The uſe of Fruits of Trees:</hi> for it is only of thoſe whereof we deſign to ſpeak.</p>
+            <p>We ſhall make therefore three different Chapters: We ſhall ſhew in the Firſt the time and the way of uſing thoſe Fruits which are eaſily corrupted, as <hi>Figgs, Nectarins, Peaches, Plums, Apricocks, Mulberries,</hi> and <hi>Cherries,</hi> which we ought always to eat faſt<g ref="char:EOLhyphen"/>ing, on an empty Stomach, and before Meals.</p>
+            <p>The ſecond ſhall Treat of thoſe which are not eaſily corrupted, and which we ought to eat the laſt thing after Meals, as <hi>Pears, Apples, Portugal Quinces, Medlars,</hi> and <hi>Services.</hi>
+            </p>
+            <p>Laſtly, the third ſhall explain how we may eat before or after Meals <hi>Raiſins, Por<g ref="char:EOLhyphen"/>tugal and China Oranges, Spaniſh Pomegra<g ref="char:EOLhyphen"/>nates,</hi> and <hi>Corands.</hi> But before I enter up<g ref="char:EOLhyphen"/>on this matter, I think fit to lay down ſome general Maxims, without which we cannot know the good uſe which we ought to make of Fruits.</p>
+            <p>We ought then in the firſt place to obſerve all the qualities of the Fruits before men<g ref="char:EOLhyphen"/>tion'd,
+<pb n="52" facs="tcp:101943:31"/>that we may uſe the one and the others at divers times, according to the precepts which we ſhall give in the Sequel.</p>
+            <p>We find of Sweet, of Sugar'd, of Amber'd, of Musked, of Vinous, of Aqueous or In<g ref="char:EOLhyphen"/>ſipid, of Sharp, of Acerb, and of Auſtere, and to ſpeak in a few words, there are of ſweet, ſharp, and auſtere.</p>
+            <p>There are found moreover of Red, of Yellow, of Green, of Tawny, of Violet, of White and of Black.</p>
+            <p>Again there are of <hi>Caſſans</hi> or harſh, of <hi>Burez,</hi> of Fondans or melting and tender; fi<g ref="char:EOLhyphen"/>nally we find ſuch as paſs quickly through the Bowels of thoſe that eat them, and theſe are the Fruits which are eaſily corrup<g ref="char:EOLhyphen"/>ted: there are others which ſtay a long time in the Stomach, and they are thoſe which are corrupted with difficulty.</p>
+            <p>All the Fruits whereof we deſign to ſpeak in particular, cool and moiſten much, be<g ref="char:EOLhyphen"/>cauſe they are but Water gathered toge<g ref="char:EOLhyphen"/>ther, and paſſed through the Trunk of the Tree, which produces them; but neverthe<g ref="char:EOLhyphen"/>leſs with this difference, that there are ſome colder and moiſter than others.</p>
+            <p>Fruit that have a quality which is ſweet, and pleaſant to the taſte, are leſs cold than others: thus, tho' Figgs, Raiſins, the <hi>Bon-Chrêtien,</hi> the Spaniſh Renet, and other Fruit of the like nature, moiſten much, they have
+<pb n="53" facs="tcp:101943:31"/>nevertheleſs but a coldneſs, which does not paſs the bounds of the firſt degree, its for this reaſon that they dulcifie much, and that they nouriſh a little more than the others, their matter having more affinity with our parts. But if with their natural ſweetneſs they have an odour of Amber or of Musk, then they have I know not what ſubtle and penetrating parts, which exhilerate our Heart and Brain, and which make us di<g ref="char:EOLhyphen"/>geſt them better than others.</p>
+            <p>Sharp Fruit cool more than ſweet: but they do not moiſten ſo much, they power<g ref="char:EOLhyphen"/>fully penetrate and attenuate the thick and earthy matters, ſo that afterward they are no longer capable of doing us hurt. They qualifie our heated Bowels; they deſtroy the Flame there, which often all the reme<g ref="char:EOLhyphen"/>dies of Phyſick have not been able to quench during many Months: they cool our Liver, remove all the Obſtructions of our Bowels, and give our Blood a more free motion: finally they appeaſe fluxions, if we apply them outwardly, and they ſtay a Flux of Blood from whatever part it comes.</p>
+            <p>Fruits which are auſtere and acerb, and which differ but in more or leſs, reſtringe the Tongue and the Palate when we eat them: it ſeems that they ſtop the Orifices of the threads that terminate there, by the blunted and obtuſe particles of their matter.</p>
+            <pb n="54" facs="tcp:101943:32"/>
+            <p> I do not pretend to ſpeak here of Fruit which are not Ripe, that have all theſe qualities. I baniſh them entirely from this Book as very pernicious to the Life of Man; but I ſpeak only of thoſe, which being in a perfect maturity, retain ſome<g ref="char:EOLhyphen"/>what of auſtere, acerb, or aſtringent, as the Rake Pear, the great Dégue, the Quince, and other Fruits of the like Nature. All theſe Fruits are alſo more cold than the ſweet and the Amb'red, but they do not moiſten ſo much: and becauſe their ſavour is in a more Earthy matter, ev'n in this re<g ref="char:EOLhyphen"/>ſpect they do not penetrate ſo much as the Sharp. They reſtring however the Stomach and the Bowels, and withſtand a Looſ<g ref="char:EOLhyphen"/>neſs and a <hi>Diſſentery,</hi> and being apply'd outwardly they hinder Vomiting, retard growing Inflammations, and eaſily cicatrize the Skin, which has been open'd by a con<g ref="char:EOLhyphen"/>ſiderable Wound.</p>
+            <p>After all, a Fruit which has been brought to perfection by the heat of the Sun, and which has not been ſhadowed by the Leaves of its Tree, will be always of better taſte than another. A red Apple or Pear, and a yellow Raiſin will always be better than others; becauſe their Juice will be better digeſted, and their uſeleſs moiſture will be eaſily evaporated by the heat of the Sun.</p>
+            <p>You muſt obſerve in the ſecond place,
+<pb n="55" facs="tcp:101943:32"/>that I give not here precepts concerning the uſe of Fruits, for ſound and robuſt Per<g ref="char:EOLhyphen"/>ſons, on whom Fruits make no Impreſſion; Let ſuch eat of them at all times, and as much as they pleaſe, without diſtinguiſh<g ref="char:EOLhyphen"/>ing their Nature and Temperament, they will not find any inconvenience: but be<g ref="char:EOLhyphen"/>cauſe theſe ſorts of Perſons are very rare, and that in the Age we Live, there are more Valetudinarians than others, I may be allow'd to Write only for thoſe who have their Entrals tender, and who are of<g ref="char:EOLhyphen"/>ten incommoded by eating Fruits.</p>
+            <p>The greateſt part of men at preſent are of a hot and dry Complexion; we have all of us the inward parts very hot, through the exceſs of a burnt Choler, and through the redundancy of a troubled Melancho<g ref="char:EOLhyphen"/>ly. With difficulty are we able during the Summer to ſupport the heat of the Sea<g ref="char:EOLhyphen"/>ſon, without being exhauſted of our ſtrength: We have the Stomach ſo weak and ſo tender through our natural diſtem<g ref="char:EOLhyphen"/>perature, that we have need of much pre<g ref="char:EOLhyphen"/>caution for the good uſe of Fruits.</p>
+            <p>In the third place, we muſt remember, that in walking in a Garden full of ex<g ref="char:EOLhyphen"/>cellent Fruit, which are perfectly Ripe; we muſt not eat one which has not firſt been waſht with freſh Water, and eſpeci<g ref="char:EOLhyphen"/>ally
+<pb n="56" facs="tcp:101943:33"/>if the heat of the Sun, or of the day be exceſſive.</p>
+            <p>It is not of to day that experience has taught me, that Fruit newly gather'd, and eaten without precaution, cauſe the Fe<g ref="char:EOLhyphen"/>vers which we call putrid, which always begin with ſhiverings and tremblings, be<g ref="char:EOLhyphen"/>cauſe all the Juices of Fruits being then through the heat of the day, and of the Seaſon in a conſiderable motion, they cauſe in our Stomach ſo great a diſorder at the time that the fermentation is there made, that the Chyle becoming crude and undigeſted, often gives Birth to great Diſ<g ref="char:EOLhyphen"/>eaſes, whereas the motion of the Juice of Fruits being calm'd by the cold of the Wa<g ref="char:EOLhyphen"/>ter, of the Night or of the ſeaſon, the Fruits make no diſorder in our Stomach, which then digeſts them better, and which per<g ref="char:EOLhyphen"/>forms its Office much better, when it is not interrupted by unuſual cauſes.</p>
+            <p>After all, we ought to know that our ſood being in ſome ſort like our ſubſtance, changes it ſelf eaſily within our parts im<g ref="char:EOLhyphen"/>perceptibly to us: Its thus that Bread, Fleſh, an Egg, have no Predominant quality when we put them into our Mouth, and we do not ſenſibly feel the Vertues when we have them in the Stomach. We muſt not ſay ſo of Aliments which we call medicamental; they nouriſh little, and on the other ſide they
+<pb n="57" facs="tcp:101943:33"/>have ſenſible qualities, which affect our Tongue and our Palate. We may perceive that a <hi>Vertelongue,</hi> or a <hi>Pear Portail</hi> will cool and moiſten our heated Stomach, that it will qualifie the Gall of our Liver, and the heat of our Reins, and that by cool<g ref="char:EOLhyphen"/>ing this laſt part, it will hinder Stones from being form'd there.</p>
+            <p>Finally, its a grand ſecret for our good Health, to keep what we eat, from corrup<g ref="char:EOLhyphen"/>ting in the Stomach. The things of a diffe<g ref="char:EOLhyphen"/>rent Nature which we put into it, daily cauſe diſorders, whereof our ſelves are too often Witneſſes; if experience did not con<g ref="char:EOLhyphen"/>vince us of this truth, there would doubt<g ref="char:EOLhyphen"/>leſs be a great deal of pleaſure in eating many things one after the other; but it ſhews us that eating before or after Meals Fruits of a different Nature, that is to ſay, ſuch as are eaſily corrupted, as Peaches, <hi>&amp;c.</hi> and ſuch as have a more firm ſubſtance, as Pears, <hi>&amp;c.</hi> The Coction which is made in the Stomach is not laudable, and that it is thence that often proceeds the little Health of thoſe who over looſly indulge themſelves to the pleaſure of the taſte.</p>
+            <p>If therefore we eat at the end of Meals Peaches and Pears, as it often happens, the Peaches being of a ſubſtance to be ſoon digeſted, and to paſs off quickly, and the Pears of a pretty firm matter, requiring more
+<pb n="58" facs="tcp:101943:34"/>time to Concoct, two great inconvenien<g ref="char:EOLhyphen"/>cies follow; the firſt, that the Peaches trouble the Belly, and make the Food taken at the Meal to deſcend, without being ful<g ref="char:EOLhyphen"/>ly digeſted: the ſecond, that they haſtily drag along with them the Pears, which re<g ref="char:EOLhyphen"/>quire a longer time for digeſtion, and thus there comes of it but crudities, and after<g ref="char:EOLhyphen"/>ward obſtructions, which are the cauſe of ſome troubleſome Diſeaſe.</p>
+            <p>It is not the ſame when we eat before Meals Mulberries and Peaches, or after Meals Pears and Quinces; the two firſt Fruits and the two laſt have a matter and qualities near alike: the former paſs quick<g ref="char:EOLhyphen"/>ly through the Belly by reaſon of their great humidity: and the later digeſt themſelves afterward at leaſure, by conſtringing after the Meal the ſuperior Orifice of the Stomach, which by this means acquits it ſelf much better of its office.</p>
+            <div n="1" type="chapter">
+               <pb n="59" facs="tcp:101943:34"/>
+               <head>CHAP. I. <hi>Of Fruits which ought to be eaten be<g ref="char:EOLhyphen"/>fore Meals.</hi>
+               </head>
+               <p>I Say in the firſt place that good Fruit which are Ripe, never do hurt, unleſs we miſuſe them, or commit faults in eating them; there are none but ill and unripe Fruit which cauſe Crudities, Indigeſtions, Colicks, and Fevers. I ſay much more; experience daily teaches us, that by the moderate uſe of them we prevent an infi<g ref="char:EOLhyphen"/>nite number of Diſeaſes, and that we Cure as many. Our Gardens fail not of Reme<g ref="char:EOLhyphen"/>dies to relieve us, and I wonder we go ſo far into Forrein Countrys to ſeek for Drogues, which are muſty or rotten, when they are brought to us, ſince we have ſo excellent at home. Our Fruits have ma<g ref="char:EOLhyphen"/>ny more Vertues and Charms than all thoſe Drogues, and there are ſeen few Perſons who refuſe Peaches, Mulberrys, or Pears, to appeaſe the burning of the Bowels; Whereas we daily ſee Perſons have in hor<g ref="char:EOLhyphen"/>ror
+<pb n="60" facs="tcp:101943:35"/>
+                  <hi>Tamarinds, Caſſia, Rhubarb,</hi> and the o<g ref="char:EOLhyphen"/>ther Drogues which are brought us from ſo far.</p>
+               <p>Becauſe I am oblig'd to follow the Or<g ref="char:EOLhyphen"/>der which I have preſcribed to my ſelf, I ſhall treat in this Chapter of the good uſe of thoſe Fruits which ought to be eaten at Break-faſt, or before Meals: and I ſhall begin with Figgs, which among all Fruits have always been the moſt eſteem'd.</p>
+               <div n="1" type="article">
+                  <head>ART. I. <hi>Of Figgs.</hi>
+                  </head>
+                  <p>AMong all the Food wherewith Men nouriſh'd themſelves at the beginning of the World, there is not one which de<g ref="char:EOLhyphen"/>ſerves a greater praiſe than Figgs. The Ancients have made Encomiums on them in many of their Books; and the <hi>Lacede<g ref="char:EOLhyphen"/>monians</hi> ſo far eſteem'd them, that they would never go to any Feaſt where they were not provided in a great plenty. Alſo ſome have compar'd them to Gold, nay have eſteem'd them far better than this Mettal. Its doubt<g ref="char:EOLhyphen"/>leſs
+<pb n="61" facs="tcp:101943:35"/>by reaſon of their ſugary ſweeteſs, which is the Symbol of peace, that men former<g ref="char:EOLhyphen"/>ly wiſht their Friends a happy year, by ſend<g ref="char:EOLhyphen"/>ing them at the beginning of it Figgs and Honey.</p>
+                  <p>In truth, they have admirable Vertues in Caſe they are eaten with Bread, for Break-faſt, or before Meals. For it is thus that they qualifie the Bowels, and that they appeaſe the exceſs of a troubleſome heat. They do not fail of producing other good effects, they quench drought, lenify the Breaſt, and give a more eaſy reſpi<g ref="char:EOLhyphen"/>ration. They clear the Liver and the Spleen of the Obſtructious wherewith they are afflicted. They diſcharge the Reins and the Bladder of their ſlime and Gravel: They looſen the Belly, be it never ſo tar<g ref="char:EOLhyphen"/>dy: finally they nouriſh and fatten both together, witneſs the famous Wraſtlers, who perform'd moſt couragiouſly, when they liv'd but of Bread and Figgs. Wit<g ref="char:EOLhyphen"/>neſs alſo the Keepers of Figg-Gardens, who (according to the Relation of <hi>Galen</hi>) ate in a manner nought but Figgs, and who in the mean while were ſo fat, that a man would have ſaid that nothing was wanting to them in their way of living.</p>
+                  <p>Figgs alſo have this peculiar to them, that they contribute to the vigour of young People, and to the Health of ſuch
+<pb n="62" facs="tcp:101943:36"/>as are Old, ſo that thoſe who uſe of them often, have no Wrinkles in their Face. A better Reaſon cannot be given than that Figgs, by their fat ſubſtance engender a Blood which dulcifies much, and this ſame matter being carried to the ſuperficies of the Body is there clear'd as well as the Blood of all its ſerous and ſuperfluous ex<g ref="char:EOLhyphen"/>crements, ſo that what remains ſerves as a natural Paint, and renders the Face ſmooth, and free from all ſorts of Wrinkles.</p>
+                  <p>After all, they have the property of Pe<g ref="char:EOLhyphen"/>netrating, Cleanſing and Digeſting; for no man doubts but they are hot in the firſt degree, and moiſt in the ſecond; the great humidity they have make them ſoon cor<g ref="char:EOLhyphen"/>rupt, and obliges us to eat them with Bread before Meals; for its the Leaven of the Bread which corrects all the ill qualities.</p>
+                  <p>Its a Maxim among Phyſicians, That we ought always to begin with the things that are moiſteſt and eaſieſt of digeſtion, when we Dine, or when we Sup. And this is alſo another, That after Fruits that are Sweet and Luſcious, and which with<g ref="char:EOLhyphen"/>all paſs quickly through the Belly, we ought rather to Drink pure Water, or Water mixt with a little Wine, than Wine alone. Pure Wine carrys haſtily into the Lacteal Veins the matter of the Figgs be<g ref="char:EOLhyphen"/>fore it be digeſted, and ſo cauſes winds; and
+<pb n="63" facs="tcp:101943:36"/>Indigeſtions in thoſe who ſo do: Whereas Water is the cauſe of a ſlower fermentation, by the means of which the Figgs are perfectly digeſted and make afterward a very lauda<g ref="char:EOLhyphen"/>ble Blood, which eaſily becomes our ſub<g ref="char:EOLhyphen"/>ſtance.</p>
+                  <p>They are not proper only for ſuch as are in Health, but likewiſe for thoſe who have a Fever and are coſtive, and I can<g ref="char:EOLhyphen"/>not imagine to my ſelf that a Learned Phyſitian can refuſe his Patient a Figg half dryed on the Tree by the heat of the Sun.</p>
+                  <p>Dry Figgs have much more Vertue than thoſe which we gather; we may eat of them ev'n after Meals, without offence; alſo they are more penetrating and hotter than the others through the ſubtilty of their parts, but they are not ſo moiſt. If they are ap<g ref="char:EOLhyphen"/>ply'd in the form of a Cataplaſm with Bread and a little Vinegar, haply they are the quickeſt and moſt certain remedy for open<g ref="char:EOLhyphen"/>ing an abſceſs, for killing a Carbuncle, or the ſwelling of the Kings-Evil, or laſtly to withſtand the progreſs of a Latent Cancer.</p>
+                  <p>They do much more, if we will believe <hi>Dioſcorides,</hi> for they tear from the Fleſh (as we may ſay) a piece of a Bone broken, if we mix them with wild Popy Flowers.</p>
+                  <p>The German Phyſicians have not found a better remedy in the Small-pox, or Meaſles than the decoction of theſe Fruits
+<pb n="64" facs="tcp:101943:37"/>dry; experience has ſhewn them that this decoction, by Purging by Urine, carrys a<g ref="char:EOLhyphen"/>way all the Malignant ſeroſity which is the cauſe of thoſe troubleſome Diſeaſes.</p>
+                  <p>But among all the good qualities which theſe Fruits enjoy, there are obſerv'd ſome ill: they cauſe Winds which ſwell the Sto<g ref="char:EOLhyphen"/>mach; they breed Lice, and makes us fond in careſſing Women.</p>
+                  <p>The Spirits irritated and ſet in motion by the Winds which they engender, and a viſcours humidity which they cauſe, are two things which diſpoſe us to be fond of a Woman, as we have prov'd at larg in a Diſſertation we caus'd to be Printed the laſt year; which has for Title, <hi>Whether thoſe who Drink Water alone are more amo<g ref="char:EOLhyphen"/>cous than others?</hi>
+                  </p>
+                  <p>The Lice which they ſay Figgs breed in thoſe who uſe them in exceſs, proceed but from the filth of the Skin, and from our excrements which they evacuate by the pores: and the evils they cauſe in us by the Winds they engender, proceed but from the ill uſe we make of them; if we eat them with Nuts or Almonds, we ſhall correct all the diſorders they can bring us; and I can aſſure you that being ſo eaten, they will be without fault, and will do us no hurt, ſtill provided that we uſe them with moderation.</p>
+               </div>
+               <div n="2" type="article">
+                  <pb n="65" facs="tcp:101943:37"/>
+                  <head>ART. II. <hi>Of Nectarins and Peaches.</hi>
+                  </head>
+                  <p>I Cannot bear the contempt ſome Per<g ref="char:EOLhyphen"/>ſons have for <hi>Nectarins, Alberges, Brug<g ref="char:EOLhyphen"/>nons, Melicotonys, Perſes</hi> and <hi>Peaches,</hi> nor be ſatisfied with the reaſon they bring for blaming them. They ſay among other things that theſe Fruits are corrupted ſo eaſily in the Stomach, that it is almoſt impoſſible to ſecure them from it; that they produce ill Blood, that they cauſe Fevers; that they injure the inward parts; that the <hi>Per<g ref="char:EOLhyphen"/>ſians,</hi> from whoſe Country they were brought, dare not eat of them by reaſon of their Malignity, and finally that <hi>Galen,</hi> the moſt knowing of the Greek Phyſitians, always condemn'd them.</p>
+                  <p>But if it were free for me to explain my ſelf at large thereon, and to break off the deſign which I propos'd to my ſelf; I would ſhew that the ill uſe which is made of the moſt excellent things, is often the cauſe that they are deſpis'd and blam'd.
+<pb n="66" facs="tcp:101943:38"/>Peaches, not to ſpeak of the other kinds, are a Fruit ſo excellent and ſo delicious to the taſte, that I could freely prefer them before Figgs and Raiſins, which (accord<g ref="char:EOLhyphen"/>ing to the ſentiment of ſome) ought to hold the firſt rank among Fruits.</p>
+                  <p>Very far from cauſing all the evils where<g ref="char:EOLhyphen"/>of they are accus'd, they cool the Sto<g ref="char:EOLhyphen"/>mach when heated, quench the heat of the Liver, allay the burning of the Blood du<g ref="char:EOLhyphen"/>ring the extremity of the Summer heats, and moiſten the matter which is then very thick through the drought of the Seaſon.</p>
+                  <p>If we obſerve well their praecautions, they do not corrupt in the Stomach, pro<g ref="char:EOLhyphen"/>vided that they are eaten before Meals, and that after having eaten them we drink only Water, if we find a burning in the Bowels; or excellent Wine, if we find our ſelves to have a very moderate heat; It is then that they will engender a better Blood than the Herbs we uſe every day.</p>
+                  <p>I own that in <hi>Perſia</hi> theſe ſorts of Fruits have Malignant and purgative qualities, but ſince the Trees were tranſported into <hi>Aegypt,</hi> and have been re-planted in <hi>Italy,</hi> and ſince cultivated in <hi>France,</hi> they have loſt all the Malignity which they had, and have retain'd but the purgative Ver<g ref="char:EOLhyphen"/>tue, which they have ſtill, and which they Communicate to their Fruit.</p>
+                  <pb n="67" facs="tcp:101943:38"/>
+                  <p> Its this purgative Vertue which cauſes them to be ſo much eſteem'd of by the Healthy and Valetudinarians, who had much rather eat faſting four or five excel<g ref="char:EOLhyphen"/>lent Peaches, and drink after them Water or Wine, to looſen the Belly; than to take a doſe of Phyſick, the very name of which raiſes a horrour in thoſe that take it the moſt couragiouſly.</p>
+                  <p>Its this ſame property which reſides in the Leaves, the Flowers and the Fruit of the Peach-tree, which kills the Worms in the Bowels, which Purges Choler and the Seroſities of the Body, and ſtops ev'n Vomitings at Sea, as we ſee written in the Works of <hi>Julius</hi> of <hi>Alexandria.</hi>
+                  </p>
+                  <p>If <hi>Galen</hi> had Liv'd in our days, and had taſted Peaches, which the Art and Induſtry of our Gardiners have rendred ſo recom<g ref="char:EOLhyphen"/>mendable, I am certain he would have had quite another opinion of theſe ſorts of Fruit: the Peaches which were carryed to <hi>Rome</hi> in the Time of this Phyſitian, com<g ref="char:EOLhyphen"/>ing by Sea from <hi>Sicily</hi> or from about <hi>Naples,</hi> were partly rotted before they came thi<g ref="char:EOLhyphen"/>ther, which made <hi>Galen</hi> at that time to deſpiſe them, and to condemn them ev'n as a Food very pernicious for Man.</p>
+                  <p>Some Perſons will correct the ill quali<g ref="char:EOLhyphen"/>ty, and the great humidity of the Peach, by eating it with Bread, by expoſing it
+<pb n="68" facs="tcp:101943:39"/>two or three days to the ſcorching heat of the Sun, by eating its Kernel, or finally by drinking pure Wine with it.</p>
+                  <p>True it is, experience has taught me, that Bread eaten with Fruits which we ought to uſe before Meals, corrects their ill qua<g ref="char:EOLhyphen"/>lities, and that by expoſing Peaches to the Sun, they loſe a ſuperfluous humidity which often incommodes us. But the ſame experience has alſo given me to underſtand, that Peach and Apricock Kernels much charge the Stomach, and that beſides their great bitterneſs they are alſo very difficult to digeſt: that moreover, tho' pure Wine be the ſole thing which oppoſes it ſelf to the coldneſs, and humidity of this Fruit; nevertheleſs if we drink much of ſuch as is ſmall or of a mean ſtrength, we fall in<g ref="char:EOLhyphen"/>to Vomitings and Looſneſſes, which ſome<g ref="char:EOLhyphen"/>times degenerate into a Bloody-Flux. Where<g ref="char:EOLhyphen"/>as a little of excellent pure Wine corrects by its noble heat the ill qualities of the Peach: Its haply this experiment which gave occaſion for this Latine Verſe.</p>
+                  <p>
+                     <hi>Petre, quid eſt Peſcha? Cum vino nobilis Eſca.</hi>
+                  </p>
+               </div>
+               <div n="3" type="article">
+                  <pb n="69" facs="tcp:101943:39"/>
+                  <head>ART. III. <hi>Of Plums and Apricocks.</hi>
+                  </head>
+                  <p>THere are ſome who prefer the Plum before all other Fruits with Stones, and ſay that there is nothing more delicious to eat than a <hi>Black Damſon,</hi> a <hi>Great Date,</hi> or a <hi>Perdrigon.</hi> The Apricock does not come near them, it has I know not what of unſavory when it is ripe, and of ſhar<g ref="char:EOLhyphen"/>piſh when it is not ſo; mean while, both have very near the ſame qualities; they are both hot in the mean, and moiſt in the ſecond Degree.</p>
+                  <p>The ſweet Plum rejoyces a hot Stomach, lenines the Breaſt, Looſen's the Belly, and nouriſhes much more than the Peach, pro<g ref="char:EOLhyphen"/>vided however that it be eaten before Meals, otherwiſe it corrupts, and by moiſt<g ref="char:EOLhyphen"/>ning too much the ſuperiour Orifice of the Stomach after Meals, it makes the Food de<g ref="char:EOLhyphen"/>ſcend too ſoon, and ſo cauſes Crudities, which it is difficult afterward to deal with.</p>
+                  <pb n="70" facs="tcp:101943:40"/>
+                  <p> I ſhall not repeat here the different Max<g ref="char:EOLhyphen"/>ims which I have laid down in the prece<g ref="char:EOLhyphen"/>dent Diſcourſes concerning the Uſe of Fruits, which ought to be eaten faſting, and be<g ref="char:EOLhyphen"/>fore Meals. I ſhall only ſay that its good to caſt Plums into freſh Water before they are eaten, to the end they may cool and moiſten more; but provided that they are very ripe, and that all have their Stems, leſt the Water enter there, and render them Inſipid. Its doubtleſs in order to be more cooled, and more moiſtn'd, and to keep the Belly more ſoluble that ſome Men eat often Prunes with their Meat, and that there are ev'n ſome who diſlike their Pot<g ref="char:EOLhyphen"/>tage if it has not of them.</p>
+                  <p>If dry'd Plums may be given to ſick Per<g ref="char:EOLhyphen"/>ſons, I do not doubt alſo but I may be permitted to give of them to mine, af<g ref="char:EOLhyphen"/>ter having gather'd them very ripe in a clear day; the Choler which is often the cauſe of all Fevers, looſes its edg by the cumbrance which it receives from the ſub<g ref="char:EOLhyphen"/>ſtance of Plums: and becauſe theſe Fruits oppoſe the heat and drought of theſe Diſeaſes, they are eſteem'd excellent for encountring <hi>Bilous</hi> Fevers, provided that the uſe be regular, and that we take a ſeaſonable time to give them.</p>
+               </div>
+               <div n="4" type="article">
+                  <pb n="71" facs="tcp:101943:40"/>
+                  <head>ART. IV. <hi>Of Mulberries.</hi>
+                  </head>
+                  <p>OF all the Fruits that are eaten there are none but Mulberries which are fit for Men when unripe: theſe ought only to be Red, drawing toward the Black, to be eaten. If they are throughly ripe, they corrupt ſo haſtily in the Stomach, that ſhortly after they cauſe in thoſe who eat freely of them, Diſtempers of the Stomach, Looſneſſes, Carbuncles, Malignant Swel<g ref="char:EOLhyphen"/>lings, and often pernicious and Epidemick Diſeaſes, eſpecially if Rains have been riſe during the Summer.</p>
+                  <p>There is nothing which changes it ſelf ſooner into Choler, and which becomes ſoon<g ref="char:EOLhyphen"/>er poyſon within our Body than a Black Mulberry. Thoſe who have the Stomach foul ought to take good heed of eating them, unleſs they have a mind to be ſick in a ſhort time. The Red-blacks withſtand Corruption more, and tho' they are very moiſt, they have nevertheleſs I know not
+<pb n="72" facs="tcp:101943:41"/>what of drought through their ſharpneſs and aſtriction, which hinders them from cor<g ref="char:EOLhyphen"/>rupting ſo ſoon.</p>
+                  <p>To uſe them well, we ought neverthe<g ref="char:EOLhyphen"/>leſs to mind the praecautions belonging to them, and never to eat of them but when the Stomach is empty, clean, and hot; for if a heat be not felt in the Bowels, how young and Cholerick ſoever a Perſon be, I do not adviſe him to eat of them, unleſs he has a mind to fall into ſome one of the Diſeaſes which we have ſpoken of be<g ref="char:EOLhyphen"/>fore.</p>
+                  <p>Mulberries carry their Liquor with them, and nothing ought to be Drank after they are eaten; they excite the appetite, cool the Stomach, appeaſe drought, allay the heat of the Liver, Purge the Blood of its ſuperfluous ſeroſities, carrying them off by Urine. They blunt the edg of the Cho<g ref="char:EOLhyphen"/>ler, moiſten thoſe that are troubled with Melancholy and Choler: finally they make the Belly ſoluble in thoſe who are natural<g ref="char:EOLhyphen"/>ly Coſtive. I will ſay much more, if Mul<g ref="char:EOLhyphen"/>berries gather'd from the Tree and eaten in a good plenty can cauſe the Bloody-flux; as we ſee it every year, nature which moſt commonly has plac't the remedy in the cauſe of our evils, has not forgotten to teach us by experience, that theſe Fruits ſerve for an aſſured remedy againſt the invete<g ref="char:EOLhyphen"/>rate
+<pb n="73" facs="tcp:101943:41"/>Bloody-flux, if they are given dry to the weight of a Crown in Gold in Red-Wine.</p>
+                  <p>Since the chief Vertue of Mulberryes is to cool and to keep the Maſs of Blood from fermenting, by qualifying the parts which ſerve for ſanguification, there may be cauſe to believe that they may be a Remedy ap<g ref="char:EOLhyphen"/>propriated to the Gout as well as all o<g ref="char:EOLhyphen"/>ther Fruits. For the pain which Gouty Per<g ref="char:EOLhyphen"/>ſons feel in the ligaments of their Joints, is caus'd but by a Blood and a ſeroſity too ſharp, which ſharpneſs is blunted by the great humidity of Mulberries, they inſen<g ref="char:EOLhyphen"/>ſibly evacuating it by Urine. We need not ſeek for other proofs than daily ex<g ref="char:EOLhyphen"/>perience, and that which <hi>Hegeſander</hi> has left us in Writing. He relates that the Mul<g ref="char:EOLhyphen"/>berry-trees did not bear Fruit for Twenty years together, and that during all that time Men, Women, and Children, were ſo trou<g ref="char:EOLhyphen"/>bled with the Gout, that other cauſes could not be then diſcover'd, than the ſcarcity of theſe Fruit.</p>
+               </div>
+               <div n="5" type="article">
+                  <pb n="74" facs="tcp:101943:42"/>
+                  <head>ART. V. <hi>Of ſharp Cherries.</hi>
+                  </head>
+                  <p>SHarp Fruits in general are enemies to Old and Melancholick Perſons, when they do not find within themſelves an ex<g ref="char:EOLhyphen"/>ceſſive heat; they are not edulcorated in their Stomach (if I may ſo call it) and are diſtributed into their Veins without being Concocted and blunted. Which is not done without cauſing in the Mouth little ſharp belchings, and in the Stomach trou<g ref="char:EOLhyphen"/>bleſome prickings, and in the whole Bo<g ref="char:EOLhyphen"/>dy an inſupportable heavyneſs.</p>
+                  <p>It does not happen ſo to young Peo<g ref="char:EOLhyphen"/>ple that are Sanguine and Cholerick who have the Entrals heated: but if caſually the ſharpneſs of Cherries with ſhort Stems eaten faſting, cauſes ſometimes in theſe prickings in the Stomach, they need then but to mix Powder Sugar with them, to blunt the point of it.</p>
+                  <p>The moſt refined Sugar and the whiteſt, which we call Royal, is the leaſt proper for
+<pb n="75" facs="tcp:101943:42"/>the uſe of Man; it heats and drys us too much, and through the abundance of its Sulphur and Salt, it is entirely oppoſite to the principles of our Life: The finer Sugar is the leſs ſweet it is, and the leſs alſo it quenches thirſt. Lime which is a capital Enemy of Man, if it be taken inwardly, or outwardly apply'd, is the chief matter which Refiners make uſe of, for rendring Sugar whiter and more ſolid; and tho' Powder Sugar be made by many repeated Lixivium's, nevertheleſs it ought always to be preferr'd before Loaf Sugar, and if we will chooſe the beſt of all, we muſt al<g ref="char:EOLhyphen"/>ways take that which is the whiteſt among the browns. It is that which is extremely ſweet, which quenches thirſt, which moiſt<g ref="char:EOLhyphen"/>ens, and which lenifies the Breaſt: I thought it proper to make this digreſſion for Per<g ref="char:EOLhyphen"/>ſons who loveſweet things, becauſe Sugar is often ſet at our Tables, for rendring our Fruits more agreeable to the taſte.</p>
+                  <p>Sharp Cherryes exhilerate the Stomach, they excite there the Appetite, and appeaſe the drought. They diſſipate the thick hu<g ref="char:EOLhyphen"/>mours, and by their ſharp quality, they cut them (as I may ſay) and divide them, either that they may ſerve afterward for Food, or be evacuated with more eaſe.</p>
+                  <p>By all theſe Vertues they are very pro<g ref="char:EOLhyphen"/>per as well as Mulberries, to oppoſe the
+<pb n="76" facs="tcp:101943:43"/>cauſe and the progreſs of the Gout, and ex<g ref="char:EOLhyphen"/>perience ſhews us that Gouty Perſons re<g ref="char:EOLhyphen"/>ceive a ſenſible relief by the uſe of Fruits, which qualify the Liver, and which cor<g ref="char:EOLhyphen"/>rect the Acrimony of the Blood.</p>
+                  <p>Moreover they powerfully looſen the Bel<g ref="char:EOLhyphen"/>ly, if they are freely eaten faſting while the Dew is yet on the Fruit; and expe<g ref="char:EOLhyphen"/>rience teaches us every year that they carry off by a Looſneſs long Diſeaſes, which all the other Remedies of Phyſick have not been able to Cure.</p>
+                  <p>The moſt proper time to eat them is in the Morning faſting, either with or with<g ref="char:EOLhyphen"/>out Bread. They have moiſture enough to oblige us not to drink any Liquor af<g ref="char:EOLhyphen"/>ter them. As for the lateward Cherries which we call at <hi>Rochelle des Guignes</hi> with long Stems, tho' they may be eaten be<g ref="char:EOLhyphen"/>fore Meals; nevertheleſs I allow them to be eaten after Meals: they have an agree<g ref="char:EOLhyphen"/>able Aſtriction, which contributes to Con<g ref="char:EOLhyphen"/>coction, and which cloſes the ſuperiour O<g ref="char:EOLhyphen"/>rifice of the Stomach, that it performs its Office afterward much better.</p>
+                  <p>The ſweet Cherries, eſpecially thoſe which we call in this Town <hi>Guindoux</hi> and <hi>Guigneaux,</hi> are much better than the ſharp for old Perſons and for thoſe who have a nice Stomach; they do not prick ſo much the inward parts, and they nouriſh more.</p>
+                  <pb n="77" facs="tcp:101943:43"/>
+                  <p> Haply there is not any Remedy more agreeable and more excellent for qualify<g ref="char:EOLhyphen"/>ing the Reins, and for clearing thence the Gravel, Slime, and little Stones, than the Wine of ſharp Cherries: We muſt take off them therefore in the Months of <hi>June</hi> or <hi>July,</hi> twelve or fifteen Pounds, we muſt cleanſe them of their Stems and Stones, and caſt them and their Stones broken through the Bung-hole of a Barrel, (<hi>a Veſ<g ref="char:EOLhyphen"/>ſel containing ſomewhat more than our Bar<g ref="char:EOLhyphen"/>rel</hi>) of good White-wine. After that they have been there for a Month, and have Communicated to the Wine their cooling and opening quality, you may pierce the Veſſel and drink the Wine with pleaſure. The colour will be agree<g ref="char:EOLhyphen"/>able to the Eye, the taſte delicious, and the effects admirable.</p>
+               </div>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="78" facs="tcp:101943:44"/>
+               <head>CHAP. II. <hi>Of Fruits which ought to be eaten af<g ref="char:EOLhyphen"/>ter Meals.</hi>
+               </head>
+               <p>THo the Fruits which ought to be eaten after Meals are of a matter more firm, which nouriſhes more, and which does not corrupt ſo eaſily as that of the o<g ref="char:EOLhyphen"/>thers, nevertheleſs we muſt remember to uſe them with the ſame precautions which we gave in the Preface to this Tract: theſe precautions ought to be ſtood too as Re<g ref="char:EOLhyphen"/>ligiouſly in uſing theſe Fruits, as in eat<g ref="char:EOLhyphen"/>ing the others. The faults which are com<g ref="char:EOLhyphen"/>mitted in their uſe are very conſiderable, and that Perſon whom I Cur'd not long ſince of <hi>Vertigo's</hi> which threatn'd her with ſome ſevere Diſtemper, has been thankful to me ſince, for having forbidden her the uſe of Apples, which ſhe ate irregularly after Meals.</p>
+               <div n="1" type="article">
+                  <pb n="79" facs="tcp:101943:44"/>
+                  <head>ART. I. <hi>Of Pears.</hi>
+                  </head>
+                  <p>NEver has the Induſtry of our Gardi<g ref="char:EOLhyphen"/>ners appear'd more admirable than in the divers kinds of Pears which we have in <hi>France.</hi> They have taken a particular care to Sow Seeds, and to preſerve ſuch Trees, as in their Wood and Leaves gave them marks of a good hope: For as by Sowing a great many Flower Seeds, there come of all kinds, and ev'n ſome that are beautiful and double, ſo by Sowing a great ſtore of Pear Kernels, it ſeems that Nature pleaſes her ſelf in giving us a grand varie<g ref="char:EOLhyphen"/>ty of Pear-trees, which produce all new Fruits, and ſome of them delicious to the taſte: haply it is becauſe the Pear is the moſt excellent Fruit of all, that ſhe de<g ref="char:EOLhyphen"/>lights in multiplying its kinds ev'n to an infinite number: It is thus that the <hi>Meſſi<g ref="char:EOLhyphen"/>re Jean,</hi> the <hi>Dame Houdote,</hi> or the <hi>Amadote,</hi> the <hi>Gabriel Egaud,</hi> the <hi>Micet,</hi> the <hi>Martin<g ref="char:EOLhyphen"/>ſire,</hi> and a great many other excellent Pears
+<pb n="80" facs="tcp:101943:45"/>are come of Kernels, and that they have had the honour to bear the Names of thoſe who rais'd them.</p>
+                  <p>But not to ſtop at this Diſcourſe, which ſeems to contribute nothing to my deſign, I may ſay that the artifice of our Gardi<g ref="char:EOLhyphen"/>ners has multiplyed for us Pears of Sum<g ref="char:EOLhyphen"/>mer, of Autumn and of Winter; that it has given us more of <hi>Caſſantes</hi> and of <hi>Burez,</hi> that it has ſhewn us more of Sweet, of ſharp and of Acerb, and that finally it has procur'd for us more of Vinous, of Ambred and of Musked, than we had before.</p>
+                  <p>Among all theſe Pears the ſweet and melting are eſteem'd the beſt, they nou<g ref="char:EOLhyphen"/>riſh more than the others which are a lit<g ref="char:EOLhyphen"/>tle ſharp or Acerb, and they are much more friendly to the nature of Man. Ne<g ref="char:EOLhyphen"/>vertheleſs there are ſome who prefer be<g ref="char:EOLhyphen"/>fore theſe firſt Pears the Sweet and <hi>Caſ<g ref="char:EOLhyphen"/>ſantes,</hi> becauſe theſe for the moſt part are odoriferous, and the others are not. They priſe therefore much more the <hi>Bon<g ref="char:EOLhyphen"/>chretien-Pioulier,</hi> or the great <hi>Winter Musk Pear,</hi> than the <hi>Vergoulette,</hi> or the <hi>Bergamot</hi> of Autumn.</p>
+                  <p>Be it how it will, the Pear in general cools and moiſtens the heated Entrals, and by its gentle Aſtriction contributes much to the Concoction of the Stomach, by gen<g ref="char:EOLhyphen"/>tly cloſing its ſuperiour Orifice, and by
+<pb n="81" facs="tcp:101943:45"/>Looſning a little the Belly; its the reaſon for which it ought always to be eaten af<g ref="char:EOLhyphen"/>ter Meals, for if it be eaten the Stomach being empty, it cumbers us, and loads us much, and moreover it binds the Belly; but however we eat of it after Meals, it always has very good effects, provided that we have the Stomach diſpos'd to receive it: for be it that we eat it Crud, or Baked, or Roſted, or Boyl'd, with Powder Sugar and Cinnamon, as old People ought to eat it, after all theſe manners it always ſola<g ref="char:EOLhyphen"/>ces the Stomach drain'd of its ſtrength and weaken'd by the exceſs of heat.</p>
+                  <p>That which is to be Obſerv'd in the uſe of Pears, is, that after Meals we ought to eat fewer Beurees than Caſſantes, the for<g ref="char:EOLhyphen"/>mer being more digeſted, and more ready to corrupt through the leaſt fault that we commit in our way of living. Moreover we ought always to make choice of the moſt coloured, and reject thoſe which we find Worm eaten. Finally we ought after Pears to drink a good Cup of pure Wine, letting this Latin Maxim have its force, <hi>Poſt Crudum, merum.</hi> But above all we ought to remember not to drink much Wine, nor to drink ſuch as is ſmall; ſmall Wine through its defect of heat not cau<g ref="char:EOLhyphen"/>ſing the Pear to be Concocted, and the o<g ref="char:EOLhyphen"/>ther cauſing crudities by its redundancy,
+<pb n="82" facs="tcp:101943:46"/>make both of them diſorders in a Stomach the moſt ev'n tempered and the moſt ſtrong. It is what experience ſhew'd us not long ſince in a Perſon, who fell into inſupporta<g ref="char:EOLhyphen"/>ble pains, having drank much Wine; and <hi>Rodolphus Goclenius</hi> aſſures us, that another dyed having drank much Beer, both, after having eaten Pears to an exceſs.</p>
+                  <p>Becauſe our Stomach is much hotter in Winter than in Summer, our heat not diſ<g ref="char:EOLhyphen"/>ſipating it ſelf during that firſt ſeaſon through the pores of our Body, there are Perſons who rather eat Pears in Winter than in Sum<g ref="char:EOLhyphen"/>mer, and who do not find themſelves ſo much incommoded by them. Haply theſe Pears have ſweated in the heap, and have there ſeaſon'd themſelves; whereas the Pears of the Summer, having their Sap ſtill in motion, and having not loſt their ſuperflu<g ref="char:EOLhyphen"/>ous humidity, trouble rather the Coction of the Stomach than the Pears of Winter.</p>
+               </div>
+               <div n="2" type="article">
+                  <pb n="83" facs="tcp:101943:46"/>
+                  <head>ART. II. <hi>Of Apples.</hi>
+                  </head>
+                  <p>SInce Apple-trees have been cultivated in the <hi>Pais des Baſques,</hi> and in the Pro<g ref="char:EOLhyphen"/>vince of <hi>Normandy,</hi> Men have had a grea<g ref="char:EOLhyphen"/>ter eſteem for their Fruits. Trees have been Sown, and afterward Grafted; they have been after that planted and re-planted: Finally they have been ſo often chang'd in their Soil, Countrys, and Climats, that the Fruit are become ſweet and pleaſant.</p>
+                  <p>I own that Apples were a long time de<g ref="char:EOLhyphen"/>ſpis'd, and that in <hi>Arabia</hi> they have ev'n been accus'd of Contributing to the Pri<g ref="char:EOLhyphen"/>zick, and to the drying of the whole Bo<g ref="char:EOLhyphen"/>dy. It has been ſaid alſo that they caus'd weakneſs in the Joints, and that conſequent<g ref="char:EOLhyphen"/>ly they increaſt the Gout and other Flux<g ref="char:EOLhyphen"/>ions, that they engendred Worms in the Bowels, and that finally they caus'd Ver<g ref="char:EOLhyphen"/>tigo's, as experience ſhews it us, and as it happen'd formerly to <hi>Scipio Gentilis</hi> a fa<g ref="char:EOLhyphen"/>mous
+<pb n="84" facs="tcp:101943:47"/>Civilian, who after Meals abus'd theſe ſorts of Fruits.</p>
+                  <p>But if Men have talkt after this manner, either it has been becauſe they knew not Apples well, and that they have been ta<g ref="char:EOLhyphen"/>ken for other Fruit, or they judg'd of them, as Men do of all other things, by the ill ſucceſs of thoſe who have abus'd them: for if we will examine the thing very nar<g ref="char:EOLhyphen"/>rowly, we ſhall find that the <hi>Arabians</hi> had none but Apples that were wild, acerb and very unpleaſant to the taſte; that the weak<g ref="char:EOLhyphen"/>neſs of the Joints, the Worms of the Bow<g ref="char:EOLhyphen"/>els, and the Vertigo's are caus'd but by the exceſſes which are committed with them, or by the ill praecautions that are taken in their uſe.</p>
+                  <p>On the contrary, Apples which are ſweet and Luſcious, Odoriferous and firm, exhi<g ref="char:EOLhyphen"/>lerate the Heart, and allay the exceſs of its heat; they correct the Gall of the Li<g ref="char:EOLhyphen"/>ver, they dilute the Blood, which is too thick and groſs: in a word they cool and moiſten the heated Viſcera: Moreo<g ref="char:EOLhyphen"/>ver, whatſoever is ſaid, they oppoſe the drying of the Body and the Ptiſick, and we ſee but very few of theſe ſorts of evils where Cyder is common: For this drink is friendly to the Stomach, which it heats in a moderate way; it revives the Heart, and opens the Obſtructions of the Entrals:
+<pb n="85" facs="tcp:101943:47"/>In a word it is of wonderfull uſe to Me<g ref="char:EOLhyphen"/>lancholick and atrabilarious Perſons; that which iſſues the firſt from Apples ſquees'd in a Preſs is not ſo excellent as the ſecond: and the third reſembles the <hi>Demy-wine</hi> of our Peaſants.</p>
+                  <p>If we mix among Apples a little Pow<g ref="char:EOLhyphen"/>der Sugar, they make us ſpit, and cool our Breaſt.</p>
+                  <p>But they muſt be us'd with precaution, that is to ſay, that they muſt be eaten after Meals, becauſe they are heavy and difficult to digeſt, that they ought to be forbidden Old People, unleſs they find themſelves heated, or that they are pre<g ref="char:EOLhyphen"/>par'd as Pears with Powder Sugar, Cin<g ref="char:EOLhyphen"/>namon and Water, and that finally we ought to drink a little of good Pure Wine after having eaten them.</p>
+                  <p>In the Diſtempers which are accompany<g ref="char:EOLhyphen"/>ed with a conſiderable heat and drought, they give a great relief, if we eat a little of them Crud, or Boyl'd, or that we put of them in Water: and I wonder that in <hi>France</hi> we give our ſelves ſo much trou<g ref="char:EOLhyphen"/>ble in ſeeking Oranges and Citrons for our Diſeaſes, when we have a <hi>ſhort-ſtart Apple,</hi> or a <hi>Spaniſh Rennet:</hi> Haply things which coſt much, and are often difficult to be had, are much better than the common, and that they much more ſatisfy the mind of
+<pb n="86" facs="tcp:101943:48"/>the Diſeaſed; for it is this part which we ought often to Cure in thoſe who find themſelves ill.</p>
+                  <p>Finally, Apples do not profit us only by taking them at the Mouth, they are a ſovereign Remedy for Heart-burnings and for the heats of the Stomach if they are outwardly applied: for if a Cataplaſm be made of Boyl'd Apples, and apply'd hot on the Region of the Heart, or on the pit of the Stomach, haply we may not find an Epithem more Sovereign in thoſe Caſes. Alſo experience has ſhewn us that the pulp of a boyl'd Apple put hot on Blood-ſhed and inflam'd Eyes, is almoſt the only Remedy for this evil.</p>
+               </div>
+               <div n="3" type="article">
+                  <pb n="87" facs="tcp:101943:48"/>
+                  <head>ART III. <hi>Of Grafted Quinces.</hi>
+                  </head>
+                  <p>ITs a pleaſant Medicine to Purge ones ſelf by eating after Meals <hi>Portugal Quin<g ref="char:EOLhyphen"/>ces:</hi> The Fruit which I ſo call, are the Quinces whoſe Grafts were brought from that King<g ref="char:EOLhyphen"/>dom, and which are almoſt as pleaſant to eat and to behold as a <hi>Bon-Cretien Pear,</hi> at leaſt they have an odour more ſweet and Luſcious; they are yellow as Gold, and yield in nothing to thoſe Pears in great<g ref="char:EOLhyphen"/>neſs, Figure and Beauty.</p>
+                  <p>
+                     <hi>Quinces</hi> are cold and dry, they reſtringe alſo manifeſtly the parts of the Body where they are apply'd; and 'tis by this aſtrin<g ref="char:EOLhyphen"/>gent quality, that conſtringing the Stomach in the upper part, and afterward the In<g ref="char:EOLhyphen"/>teſtines, after that they are eaten, they ſqueeſe, and force out all they meet with<g ref="char:EOLhyphen"/>in their cavity, be it Excrement, Choler or Phlegm. Its what happened to an Ad<g ref="char:EOLhyphen"/>vocate of <hi>Pergamus,</hi> of whom <hi>Galen</hi> ſpeaks, who was pleaſantly Purg'd after having
+<pb n="88" facs="tcp:101943:49"/>eaten Quinces after a Meal, and having walkt a little upon it: ſo that after all the experiments that we have had of them, we ought no longer to doubt of their Vertues.</p>
+                  <p>Mean while the ſtirring of the Belly which they cauſe, does not happen but to Perſons who have the Stomach weak and nice, and who have need by reaſon of this to fortifie it; for theſe Fruits do not work the ſame effects in a young ro<g ref="char:EOLhyphen"/>buſt Man; and on the other ſide, if they are eaten before Meals, being very far from moving the Belly, they make it tar<g ref="char:EOLhyphen"/>dy; and it is ſo that thoſe do who have it ordinarily too moiſt.</p>
+                  <p>
+                     <hi>Quinces</hi> have alſo other excellent Ver<g ref="char:EOLhyphen"/>tues; if they are eaten Crud, Boyl'd, or preſerv'd with Sugar, they give an appe<g ref="char:EOLhyphen"/>tite, they ſtop a Looſneſs, appeaſe Vomit<g ref="char:EOLhyphen"/>ing, withſtand an old Dyſentery and a Bloody-Flux; and if weſcrape off them Crud, and put the pulp of them hot on the Re<g ref="char:EOLhyphen"/>gion of the Heart in the form of an Epi<g ref="char:EOLhyphen"/>theme, when a Malignant Fever attacks us, they contribute not a little toward the ſubduing it: Their penertrating and ſweet odour revives the Heart and the Brain, and it has not been heard ſaid hitherto, that Quinces corrupt in the Stomach.</p>
+                  <p>I very much approve the method which
+<pb n="89" facs="tcp:101943:49"/>ſome have of making Wine and Water of Quinces. Theſe two Drinks have near the ſame Vertues, unleſs it be that the Water is moſt proper for thoſe who find themſelves much heated, and the Wine more meet for thoſe who do not find a<g ref="char:EOLhyphen"/>ny praedominant quality, and who are old or Phlegmatick.</p>
+                  <p>The Water of Quinces which the Greeks call <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, is made after this manner. We take in the Month of <hi>October</hi> fifty or ſixty pints of Fountain-Water, of <hi>Paris</hi> Meaſure <hi>[which comes near to our Quart]</hi> we put into it ten or twelve Pounds of Portugal Quinces, pared, cleans'd, and cut in ſlices; they ſteep there till the Water has a yellow colour like that of Spaniſh Wine; after which we ſtrain this Water, and then let it ſeeth ore a gentle Fire till the fourth part be conſum'd, ſcumming it often, and after having put it in a Veſſel well fill'd and well ſtopt, we preſerve it for the Month of <hi>March</hi> following.</p>
+                  <p>The Wine is made after this manner; we take at Vintage time Ten or Twelve Pounds of Portugal Quinces, prepar'd after the ſame manner as I have ſaid, we throw them into fifty or ſixty pints of good Cla<g ref="char:EOLhyphen"/>ret <hi>Muſt,</hi> and after that they have wrought for thirty days, we ſtrain the Liquor, we put it into another Veſſel which we ſtop
+<pb n="90" facs="tcp:101943:50"/>up cloſe, and we preſerve it for uſe.</p>
+                  <p>Theſe two Drinks produce good effects in Perſons who uſe of them; they fortify the inward parts, oppoſe a Looſneſs and a Dyſentery, cleanſe the Reins of their filth, hinder the Vapour of Wine from offend<g ref="char:EOLhyphen"/>ing the Head, and ſecure us from Peſtilen<g ref="char:EOLhyphen"/>tial Vapours: Finally, they cauſe ſo many good effects, that I muſt paſs the bounds of an abſtract if I would name them all</p>
+               </div>
+               <div n="4" type="article">
+                  <head>ART. IV. <hi>Of Medlars and Services.</hi>
+                  </head>
+                  <p>THeſe Fruits are ſeldom at our Tables, and they are eaten moſt commonly but in a fancy; they are not very agreeable, and there is but little pleaſure taken in eating them. Mean while they are not without their uſe, and contribute ſomething to our Health. They are both ſo near ally'd in qualities that a Perſon will not deceive himſelf if he takes the one for the other. They are cold and dry when they are hard, but when they are ſoftiſh they acquire a better heat, by a ſort of Corruption, that is to ſay, that they are not ſo cold; after
+<pb n="91" facs="tcp:101943:50"/>the firſt way they reſtringe more and nouriſh leſs: and they ought to be uſed as Quinces, and to be eaten after Meals ſoft, Crud, Ro<g ref="char:EOLhyphen"/>ſted, Boyl'd in Wine with Powder Sugar and Cinnamon, or finally Fryed in freſh Butter, which does not render them diſagreeable to the taſte through the Skill of the Cook.</p>
+                  <p>But becauſe after all theſe manners they produce the like effects as Quinces, this will oblige me to paſs in ſilence what I have ſaid in the precedent Article: I ſhall only add here, that the Stones of Medlars being powdred, and then taken by the Mouth to the weight of a Gold Crown in White-wine, cleanſe the Reins of their Impurities, and ev'n drive forth Stones which are ſmall enough to paſs through the <hi>
+                        <g ref="char:V">Ʋ</g>reters,</hi> and afterward through the Paſſage of the Urine.</p>
+                  <p>In reality theſe Stones are extreamly dry, and they have in their matter particles which powerfully penetrate; for experience has taught me that the Stones of Fruits, and the hardeſt bones of Beaſts and Fiſhes provoke Urine as ſpecifick Remedies. I do not doubt but that which <hi>Braſſavolus</hi> has left us in Writing concerning the Ver<g ref="char:EOLhyphen"/>tues of the Stones of Medlars, is true, ſince he proves it by two ſick Perſons who were Cur'd thereby.</p>
+                  <p>But we ought not to ſuffer our ſelves to
+<pb n="92" facs="tcp:101943:51"/>be abus'd on this account by the promiſes of <hi>Quacks</hi> and <hi>Mountebanks,</hi> who boaſt to have certain Remedies for breaking the Stone in the Reins or in the Bladder: I know not whether the Stones of Medlars have more Vertue in <hi>Italy</hi> than in <hi>France,</hi> but at leaſt I know by experience and rea<g ref="char:EOLhyphen"/>ſon, that neither the Stones of Medlars, nor all other Remedies have the force to break the Stone, nor to drive it forth of the Bladder, when it is to big too paſs forth.</p>
+                  <p>The chief Vertue of <hi>Services</hi> is to cool and to reſtringe, as we have ſaid: its through theſe qualities that they ſerve for power<g ref="char:EOLhyphen"/>ful Remedies againſt moiſt Diſeaſes, againſt inveterate Looſneſſes, and againſt long Dy<g ref="char:EOLhyphen"/>ſenteries. Perhaps the Learned <hi>Bruyerius</hi> had not been Cur'd of a Malignant Dy<g ref="char:EOLhyphen"/>ſentery which laſted him above a Month, if he had not eaten a great many <hi>Services;</hi> ſo true it is that the preſumptuous bold<g ref="char:EOLhyphen"/>neſs which we have in trying Remedies in our long Diſtempers, often ſucceeds much better with us than prudence it ſelf.</p>
+               </div>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="93" facs="tcp:101943:51"/>
+               <head>CHAP. III. <hi>Of Fruits, which may be eaten before, or after Meals.</hi>
+               </head>
+               <p>THere are Fruits which may be eaten at all times, becauſe they do not corrupt in our Stomach, but through our fault: Wherefore we ought to have a pe<g ref="char:EOLhyphen"/>culiar deſign, and different praecautions in uſing them. One Perſon would only cool and moiſten himſelf. And beſides this, another will have a farther deſign of ren<g ref="char:EOLhyphen"/>dring the Belly ſoluble: thus there may be need of theſe Fruits in different occa<g ref="char:EOLhyphen"/>ſions.</p>
+               <div n="1" type="article">
+                  <pb n="94" facs="tcp:101943:52"/>
+                  <head>ART. I. <hi>Of Raiſins.</hi>
+                  </head>
+                  <p>THe moſt excellent Raiſins which our Province furniſhes us with, and which are ordinarily ſerv'd at our Table, are thoſe which are ſweet, taſting of Sugar and Amber: many prefer them to all o<g ref="char:EOLhyphen"/>ther Fruits; and they yield us a Liquor, which is the moſt agreeable and richeſt pre<g ref="char:EOLhyphen"/>ſent that ever God gave to Man. If I would extend my ſelf here on the Enco<g ref="char:EOLhyphen"/>mium of Raiſins, I perſwade my ſelf that I ſhould find but too much matter to ſay fine things of them; but, becauſe I pro<g ref="char:EOLhyphen"/>pos'd to my ſelf to Write only concerning the uſe of the Fruits of Trees as briefly as poſſible; I muſt be allow'd to deliver my thoughts in a few words concerning the uſe of Raiſins eaten before or after Meals.</p>
+                  <p>But before I explain my ſelf thereon, I fancy that I ought to eſtabliſh ſome ge<g ref="char:EOLhyphen"/>neral Maxims, for well uſing them, with<g ref="char:EOLhyphen"/>out being damnified thereby.</p>
+                  <pb n="95" facs="tcp:101943:52"/>
+                  <p> A Woman who has the Stomach nice and weak muſt never eat Raiſins newly gather'd; they puff up the Belly, they cauſe a rumbling and winds, and trouble the Con<g ref="char:EOLhyphen"/>coction of the Stomach: moreover ſhe muſt not eat but of ſuch as are excellent and ve<g ref="char:EOLhyphen"/>ry ripe, and again ſhe muſt not ſo much as look on thoſe which have grown in the ſhade, and which the Sun has not heated with its rays.</p>
+                  <p>To correct the ill quality of Raiſins, they muſt be gather'd ſome days before you will eat them, or elſe you may take ſuch as have been hung up in a Chamber, or if at time of Vintage you have an inclination for eating ſuch as are freſh, they muſt be dipt into boyling Water, and then into freſh Water, and ſo they muſt be ſerv'd to Table.</p>
+                  <p>
+                     <hi>Raiſins</hi> are moiſt and moderately hot, and by theſe two qualities they are proportionate to the Principles of our Life; they nouriſh much more than other Fruits, if we except Figgs: they revive the Spirits by their ſweet and odoriferous ſavour, they cheer up a Stomach which is languiſhing and heated through Labour, and moiſten the Viſcera, and ſo correct by their pleaſant moiſture the drought and which the heat of Autumn has there caus'd.</p>
+                  <p>Nay there are Phyſitians who do not de<g ref="char:EOLhyphen"/>ny them to their ſick Patients when they be<g ref="char:EOLhyphen"/>gin
+<pb n="96" facs="tcp:101943:53"/>to amend, tho' on condition that they eat them with Bread, and throw away the Stones and the Skin, as two parts which can<g ref="char:EOLhyphen"/>not be digeſted by a Stomach how robuſt ſo<g ref="char:EOLhyphen"/>ever.</p>
+                  <p>If they are eaten faſting, without Bread, as they come from the Tree moiſtned with the Dew of the Night, they purge the Belly ev'n of thoſe who have it naturally tardy; there is neither Water of <hi>Caſſia</hi> nor <hi>Manna</hi> which ought to be preferr'd to Raiſins ſo eaten.</p>
+                  <p>We ought here to remember not to drink Wine unleſs it be well diluted, after having eaten Raiſins faſting: Nay it would be better not to drink at all, or to drink only pure Water; pure Wine mixt in the Stomach with the new Juice of the Raiſins makes ſo extra<g ref="char:EOLhyphen"/>ordinary a fermentation, that the accidents which ariſe from it are much greater than you may imagin: For the Wine carrys the Chyle and the Juices into the Bowels and into the Reins, before they are digeſted, and ſo cauſes impurities and indigeſtions in the Blood; whereas Water hindring the great ebullition of the Stomach, contributes to a good Con<g ref="char:EOLhyphen"/>coction; it cauſes the Chyle to become more pure, and that we are more refreſht and moiſtn'd by the uſe of the Raiſins.</p>
+                  <p>We ought not ſo to do when we eat them after Meals, for we may drink a good Glaſs
+<pb n="97" facs="tcp:101943:53"/>of pure Wine, and not conſider ſo much the Raiſins prepar'd as we have ſaid before, as the food which we have taken at our Meal.</p>
+                  <p>Tho the Stones cannot be digeſted, yet we ought not to throw them away when we eat Raiſins after Meals: For ſince they are a<g ref="char:EOLhyphen"/>ſtringent, they correct the great humidity, which is the cauſe of the evils which they bring upon us. We muſt chew them there<g ref="char:EOLhyphen"/>fore very ſmall, and reduce them to minute parts betwixt the Teeth, that they may con<g ref="char:EOLhyphen"/>tribute to the Coction of our Stomach, and correct the ill qualities of the Raiſins: It is thus we ought to eat after Meals the dry Raiſins which are brought from <hi>Spain;</hi> for by nouriſhing and lenifying our inward parts they ſolace them by their ſweetneſs, and fortifie them by the aſtriction of their Stones.</p>
+                  <p>I ſhall not paſs by here the excellent drink which is made with dry Raiſins, and is call'd <hi>de Cabat.</hi> The Stones muſt be taken away from fifteen or twenty Pounds, and then the Raiſins muſt be bruis'd a little: and in the Month of <hi>January</hi> or of <hi>February,</hi> which is the time that they are brought to us from <hi>Spain,</hi> they muſt be put in an excellent Barique <hi>(a Veſſel ſomewhat more than our Barrel)</hi> of White-wine to drink at <hi>Eaſter.</hi> This Wine will have the colour of a Spaniſh Wine, it will be pleaſing to the Palat, and will have qualities not to be contemn'd; for it leni<g ref="char:EOLhyphen"/>fies
+<pb n="98" facs="tcp:101943:54"/>the Breaſt, appeaſes the Cough, helps re<g ref="char:EOLhyphen"/>ſpiration, and fortifies the Stomach and the Liver, creates an Appetite, oppoſes inclina<g ref="char:EOLhyphen"/>tions to Vomit, ſtops a Looſneſs; in a word, it is an excellent Remedy againſt the <hi>Drop<g ref="char:EOLhyphen"/>ſy,</hi> it agrees admirably with Old men, with Valetudinarians, with Phlegmatick or Me<g ref="char:EOLhyphen"/>lancholick Perſons, and finally with Women of a tender Conſtitution.</p>
+               </div>
+               <div n="2" type="article">
+                  <head>ART. II. <hi>Of China and Portugal Oranges.</hi>
+                  </head>
+                  <p>THe Grafted Orange-trees which were brought from <hi>China</hi> into <hi>Portugal,</hi> and which have been multiplied in the later Kingdom, produce Oranges which have a fine Rind, a vinous Juice, and which are very pleaſant to eat; they may be us'd before or after Meals, for being more moiſt than cold, they qualify alſo after Meals a Stomach too hot and too dry, and ſo help Concoction.</p>
+                  <p>Thoſe which are brought us ordinarily from <hi>Portugal</hi> are ſharp or <hi>aigres-douces,</hi> they are colder than the former, and they refreſh
+<pb n="99" facs="tcp:101943:54"/>more, and more oppoſe the Corruption of our humours.</p>
+                  <p>Sharp Oranges ought never to be us'd af<g ref="char:EOLhyphen"/>ter Meals, they hinder the digeſtion of the Stomach by their coldneſs, but they are ve<g ref="char:EOLhyphen"/>ry proper for quenching the heat of our Li<g ref="char:EOLhyphen"/>ver, and to give us an appetite, if we take the Juice before Meals with Water and a lit<g ref="char:EOLhyphen"/>tle Powder Sugar, but eſpecially when the great heats of the Summer or of Autumn ex<g ref="char:EOLhyphen"/>hauſt our ſtrength.</p>
+                  <p>I ſay no more here, for that I will not re<g ref="char:EOLhyphen"/>peat what I have ſaid in the Article of Cher<g ref="char:EOLhyphen"/>ries, where you may ſee what ſharp Fruits are capable of doing within us, and the pre<g ref="char:EOLhyphen"/>cautions we muſt take to uſe of them. I ſhall only ſay that the Rinds of ſharp Oranges being ſquees'd a little into Wine, renders it more agreeable to the taſte of many Perſons, and makes it paſs more readily by Urine.</p>
+                  <p>Our ſick Perſons uſe both the one and the other, and if you will believe them on their own experience, they will tell you that there is not a better Remedy than theſe Fruits for quenching Thirſt, cooling the Stomach, qualifying the Liver, provoking Urine, ta<g ref="char:EOLhyphen"/>king away the Heart burning, oppoſing in<g ref="char:EOLhyphen"/>ward Poyſons; in a word, for Curing the Diſeaſes which are accompanied with an in<g ref="char:EOLhyphen"/>ſupportable heat and drought and indeed, if we cut a <hi>China</hi> or <hi>Portugal,</hi> vinous Orange
+<pb n="100" facs="tcp:101943:55"/>into four parts, and throw it into a pot of Water with the Rin'd, this drink will have all the Vertues ev'n now mention'd.</p>
+               </div>
+               <div n="3" type="article">
+                  <head>ART. III. <hi>Of Spaniſh Pomegranates.</hi>
+                  </head>
+                  <p>WE cultivate in our Gardens ſweet, <hi>Aigres-doux,</hi> and ſharp Pomegra<g ref="char:EOLhyphen"/>nate-trees which came to us from <hi>Spain;</hi> for as for thoſe of <hi>France</hi> which are wild, we can<g ref="char:EOLhyphen"/>not eat the Fruits: The Flowers and Rinds of Pomegranates are aſtringent, and both ſerve to Cure our Diſeaſes which are caus'd through a too great humidity. They have the Vertue of conſtringing the parts of our Body together, and of giving them the Situ<g ref="char:EOLhyphen"/>ation which they had loſt: The inſide of the Kernels of a Pomegranate is uſeleſs and un<g ref="char:EOLhyphen"/>digeſted, our Stomach cannot diſſolve it, and there is no Body who eats it. There is but the pulp which is about the Kernels that yields an agreeable Juice, wherewith we are often ſolac'd in our ſickneſſes.</p>
+                  <p>Sharp Pomegranates ought to be us'd be<g ref="char:EOLhyphen"/>fore
+<pb n="101" facs="tcp:101943:55"/>Meals, when the Stomach is empty; and if the point of their ſharpneſs does us hurt, as it happens in thoſe who have this part weak and tender, we need but blunt it with Water and Sugar to make a delicious Drink: Then this agreeable Liquor cools the Stomach, quenches thirſt, qualifies the Li<g ref="char:EOLhyphen"/>ver, weakens the ſharpneſs of the Choler, revives the Heart, reſiſts putrefaction, pro<g ref="char:EOLhyphen"/>vokes Urine; in a word, its a Drink proper for the Sick and ſound. It is much better than the <hi>Boüillons</hi> of Veal, and of cooling Herbs, which are taken too often in the Summer, and in Autumn to qualify the Entrals, and to re<g ref="char:EOLhyphen"/>ſiſt the heat and drought of the Seaſon: for the continual uſe which is made of <hi>Boüillons,</hi> is wholly an enemy to the Stomach, their ſubſtance relaxes too much the membranes, and to perform well its Office it muſt have a certain temperament which is not too moiſt; whereas the Drink of ſharp Pomegranates, by reſtringing it gently, tempers this part, and at the ſame time all the others.</p>
+                  <p>Sweet and vinous Pomegranates do not cool ſo much as the ſharp, but they dul<g ref="char:EOLhyphen"/>cify more, and are more proper for Old and atribilarious Perſons.</p>
+                  <p>Thoſe who find a heat in their Bowels, are very much ſolac'd after having ſwallowed ſome Spoonfulls of the Juice of theſe Fruits: It is ſo that the <hi>Carthaginians</hi> us'd of them,
+<pb n="102" facs="tcp:101943:56"/>from whoſe Country Pomegranates were brought: and it were thoſe alſo who taught us by their own experience the greateſt part of the good effects which they cauſe in us, when we uſe of them. It cannot be ſaid what goods the Juice of ſweet and vinous Pomegranates, preſs'd forth, ſcumm'd, and fer<g ref="char:EOLhyphen"/>mented may produce: it ſtrongly oppoſes all inward Fluxions, it reſiſts all Fevers which are accompanied with a Looſneſs and an exhauſting of our ſtrength, and it has this proper to it, that it fortifies all our languiſh<g ref="char:EOLhyphen"/>ing parts. If we will make ſome Bottles of it, we muſt ſqueeze forth in a Preſs a ſuffici<g ref="char:EOLhyphen"/>ent quantity of Pomegranates, we muſt ſeeth the Juice over a gentle Charcoal Fire to the diminution of the third part, after having well ſcumm'd it, and afterward it muſt be kept for uſe.</p>
+                  <p>If we put in White-wine the Kernels of ſweet or vinous Pomegranates, or after the ſame manner as we have preſcrib'd for ſharp Cherries, we ſhall have a Wine which will yield in nothing to all the Remedies which Phyſick has invented hitherto for allaying the burning of the Reins, for cleanſing forth all the filth, and for hindring Stones from being there form'd.</p>
+               </div>
+               <div n="4" type="article">
+                  <pb n="103" facs="tcp:101943:56"/>
+                  <head>ART IV. <hi>Of Corands.</hi>
+                  </head>
+                  <p>THe Red Corands and the White, which we call <hi>Gadelles,</hi> have very near the ſame qualities, tho' the <hi>Gadelles</hi> are more ſharp, and the Red more plea<g ref="char:EOLhyphen"/>ſant to eat. Both of them cool and re<g ref="char:EOLhyphen"/>ſtring the parts of the Body through which they paſs; they hinder Vomiting, quench drought, blunt the Choler, remove Ob<g ref="char:EOLhyphen"/>ſtructions, fortify the parts, and they ſo<g ref="char:EOLhyphen"/>lace both the healthy and Sick that are heat<g ref="char:EOLhyphen"/>ed, if they are us'd before or after Meals.</p>
+                  <p>Their pungent ſharpneſs ought to be corrected, as that of Cherries and Pome<g ref="char:EOLhyphen"/>granates, or we may make them into a Sugar Paſte or Gelly, which is very pro<g ref="char:EOLhyphen"/>per for thoſe who have the Stomach weak<g ref="char:EOLhyphen"/>end by long Sickneſſes; and I have Cur'd many Perſons of conſiderable quality, who had this part very much afflicted by conti<g ref="char:EOLhyphen"/>nual Vomitings, and had a troubleſome Looſneſs of the Belly, by giving only a
+<pb n="104" facs="tcp:101943:57"/>Paſte or Gelly of Corands, and of the moiſt conſerve of Provins Roſes.</p>
+                  <p>In Imitation of the <hi>Turks,</hi> during the great heats of the Summer, we may make of the greateſt part of the Fruits before ſpoken of, a ſort of <hi>Sherbet</hi> to be drank with Ice: and I allow young Sanguine and bilous People, who have known by expe<g ref="char:EOLhyphen"/>rience that drinking with Ice does not in<g ref="char:EOLhyphen"/>commode them, I allow them, I ſay, to drink of it, with prudence for allaying the exceſs of their heat: This will be a ſure means to hinder them from being ſet upon by con<g ref="char:EOLhyphen"/>tinual and Malignant Fevers, and to keep them in good Health during all the Sum<g ref="char:EOLhyphen"/>mer and Autumn. As for others who are of another temperament, and of another Age, they muſt not touch of it, and they muſt remember that heat, which we muſt not deſtroy, is one of the Principles of our Life.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:101943:57"/>
+            <head>THE TABLE OF THE Chapters of the Firſt PART.</head>
+            <list>
+               <item>
+                  <hi>THe Art of Pruning Fruit-trees.</hi> Pag. 1</item>
+               <item>Chap. 1. <hi>The Pruning of Fruit-trees for the Month of</hi> February. p. 2</item>
+               <item>Chap. 2. <hi>The Pruning of Fruit-trees at the beginning of</hi> May. p. 31</item>
+               <item>Chap. 3. <hi>The Pruning of Fruit-trees at the beginning of</hi> June. p. 33</item>
+               <item>Chap. 4. <hi>The Pruning of Fruit-trees at the end of</hi> July. p 42</item>
+               <item>
+                  <hi>An Explanation of ſome words us'd by Gar<g ref="char:EOLhyphen"/>diners to expreſs themſelves ſpeaking of Fruit-trees.</hi> p. 48</item>
+            </list>
+            <trailer>The end of the Firſt Table.</trailer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:101943:58"/>
+            <head>THE TABLE OF THE SECOND PART.</head>
+            <list>
+               <item>
+                  <hi>OF the <g ref="char:V">Ʋ</g>ſe of the Fruits of Trees for keeping us in Health, or for Curing us when we are Sick.</hi> Pag. 50</item>
+               <item>Chap. 1. <hi>Of the Fruits which ought to be eaten before Meals.</hi> p. 59</item>
+               <item>Art. 1. <hi>Of Figgs.</hi> p. 60</item>
+               <item>Art. 2. <hi>Of Nectarins and Peaches.</hi> p. 65</item>
+               <item>Art. 3. <hi>Of Plums and Apricocks.</hi> p. 69</item>
+               <item>Art. 4. <hi>Of Mulberries.</hi> p. 71</item>
+               <item>Art. 5. <hi>Of ſharp Cherries.</hi> p. 74</item>
+               <item>Chap. 2. <hi>Of the Fruits which ought to be eaten after Meals.</hi> p. 78</item>
+               <item>Art. 1. <hi>Of Pears.</hi> p. 79</item>
+               <item>Art. 2. <hi>Of Apples.</hi> p. 83</item>
+               <item>Art. 3. <hi>Of Quinces.</hi> p. 87</item>
+               <item>Art. 4. <hi>Of Medlars and Services.</hi> p. 90</item>
+               <item>Chap. 3. <hi>Of the Fruits which may be eaten before and after Meals.</hi> p. 93</item>
+               <item>Art. 1. <hi>Of Raiſins.</hi> p. 94</item>
+               <item>Art. 2. <hi>Of China and Portugal Oranges.</hi> p. 98</item>
+               <item>Art. 3. <hi>Of Spaniſh Pomegranates.</hi> p. 100</item>
+               <item>Art. 4. <hi>Of Corands.</hi> p. 103</item>
+            </list>
+            <trailer>The end of Second Table.</trailer>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:101943:58"/>
+            <head>A CATALOGUE of ſome Books Printed for and to be ſold by <hi>Thomas Baſſet</hi> at the <hi>George</hi> in <hi>Fleet-ſtreet.</hi>
+            </head>
+            <list>
+               <head>Folio.</head>
+               <item>DR. <hi>Lightſoots</hi> Works in two Volumes.</item>
+               <item>
+                  <hi>Speeds</hi> Mapps, and Geography of Great <hi>Brittain</hi> and <hi>Ireland,</hi> and of Foreign Parts.</item>
+               <item>
+                  <hi>Wanleys</hi> Hiſtory of Man.</item>
+               <item>Biſhop <hi>Wilkins</hi> Real Character.</item>
+               <item>
+                  <hi>Pharmacopeia Londinenſis.</hi>
+               </item>
+               <item>
+                  <hi>Hooker</hi>'s Eccleſiaſtical Polity.</item>
+               <item>Judge <hi>Jones</hi> Reports.</item>
+               <item>Judge <hi>Winches</hi> Book of Entries.</item>
+               <item>
+                  <hi>Guillims</hi> Heraldry.</item>
+               <item>Biſhop <hi>Sauderſons</hi> Sermons.</item>
+               <item>
+                  <hi>Foulis</hi> Hiſtory of Romiſh Treaſons.</item>
+               <item>
+                  <hi>Crokes</hi> Reports in three Volumes.</item>
+               <item>
+                  <hi>Daltons</hi> Offices of Sheriffs.</item>
+               <item>—Juſtice of Peace.</item>
+               <item>
+                  <hi>Cokes</hi> Reports in 13 Parts.</item>
+               <pb facs="tcp:101943:59"/>
+               <item> 
+                  <hi>Selden's Jani Anglorum</hi> in Engliſh.</item>
+               <item>
+                  <hi>Lex Mercatoria.</hi>
+               </item>
+               <item>
+                  <hi>Mezerays</hi> Hiſtory of <hi>France.</hi>
+               </item>
+               <item>
+                  <hi>Cowels</hi> Interpreter, Enlarged by <hi>Manley.</hi>
+               </item>
+               <item>
+                  <hi>Littleton</hi>'s Reports.</item>
+               <item>Dr. <hi>Howels</hi> Hiſtory of the World.</item>
+               <item>
+                  <hi>Grotius</hi> of War and Peace, Engliſh.</item>
+               <item>
+                  <hi>Townſends</hi> Hiſtorical Collections.</item>
+               <item>
+                  <hi>Pharamond.</hi>
+               </item>
+               <item>
+                  <hi>Heaths</hi> Chronicle.</item>
+               <item>
+                  <hi>Pettus</hi> of Mines and Minerals.</item>
+               <item>Hiſtory of the <hi>Cariby</hi> Iſlands.</item>
+               <item>
+                  <hi>Brents</hi> Hiſtory of <hi>France.</hi>
+               </item>
+               <item>
+                  <hi>Browns</hi> Entries in two Parts.</item>
+               <item>Sir <hi>Roger Manly</hi>'s Hiſtory of the Wars of <hi>Denmark.</hi>
+               </item>
+               <item>Lord <hi>Bridgmans</hi> Conveyances.</item>
+               <item>Lord <hi>Cokes</hi> 2d. 3d. and 4th Inſtitutes.</item>
+               <item>
+                  <hi>Huttons</hi> Reports with New References.</item>
+               <item>Modern Reports.</item>
+               <item>
+                  <hi>Leys</hi> Reports.</item>
+               <item>
+                  <hi>Hetleys</hi> Reports.</item>
+               <item>The Ten Volumes of Year Books with New References.</item>
+               <item>
+                  <hi>Edward</hi> the <hi>Second</hi> Publiſhed by Ser<g ref="char:EOLhyphen"/>jeant <hi>Maynard.</hi>
+               </item>
+               <item>
+                  <hi>Officina Brevium.</hi>
+               </item>
+               <item>A Catalogue of all the Common and Statute Law-Books of this Realm, to this preſent Year, 1684.</item>
+            </list>
+            <list>
+               <pb facs="tcp:101943:59"/>
+               <head>Quarto.</head>
+               <item>Dr. <hi>Littletons</hi> Dictionary, the Second E<g ref="char:EOLhyphen"/>dition.</item>
+               <item>
+                  <hi>Gouldmans</hi> Dictionary.</item>
+               <item>
+                  <hi>Coles</hi> Dictionary.</item>
+               <item>
+                  <hi>Mieges</hi> French Dictionary.</item>
+               <item>The Travels of the Patriarchs.</item>
+               <item>A Diſcourſe of the Laws Civil and Ec<g ref="char:EOLhyphen"/>cleſiaſtical.</item>
+               <item>
+                  <hi>Doctrina Placitandi.</hi>
+               </item>
+               <item>
+                  <hi>Moyles</hi> Entries.</item>
+               <item>Compleat Clerk.</item>
+               <item>Dr. <hi>Parker</hi> of the Law of Nature.</item>
+               <item>
+                  <hi>Sheppards</hi> Grand Abridgment.</item>
+               <item>Dr. <hi>Haywards</hi> two Sermons before the King.</item>
+               <item>A Collection of the Caſes relating to Church Communion, Written by ſeveral Miniſters in and about <hi>London.</hi>
+               </item>
+               <item>Counter-Scuffle.</item>
+               <item>
+                  <hi>Mandevils</hi> Travels.</item>
+               <item>Hiſtory of the Seven Champions.</item>
+               <item>Dr. <hi>Sherlocks</hi> Sermon on the Diſcovery of the Plot.</item>
+               <item>The Difference of the Caſe between the ſeparation of the Proteſtants from the Church of <hi>Rome,</hi> and the ſeparation of Diſſenters from the Church of <hi>England.</hi>
+               </item>
+               <item>
+                  <hi>Medicina Curioſa.</hi>
+               </item>
+            </list>
+            <list>
+               <pb facs="tcp:101943:60"/>
+               <head>Octavo.</head>
+               <item>
+                  <hi>Mieges</hi> French Dictionary.</item>
+               <item>The <hi>London Practice</hi> of Phyſick, being the whole Practick Part of Dr <hi>Willis</hi>'s Works.</item>
+               <item>Dr. <hi>Salmons</hi> Diſpenſatory.</item>
+               <item>—his <hi>Doron Medicum.</hi>
+               </item>
+               <item>Several Tracts of Mr. <hi>Hales</hi> of <hi>Eaton.</hi>
+               </item>
+               <item>Biſhop <hi>Sanderſons</hi> Life.</item>
+               <item>
+                  <hi>Coles</hi> Dictionary Latin and Engliſh.</item>
+               <item>Biſhop <hi>Wilkins</hi> Sermons, never before Extant.</item>
+               <item>—Principles and Duty of Natural Re<g ref="char:EOLhyphen"/>ligion.</item>
+               <item>
+                  <hi>Filmers</hi> Patriarcha.</item>
+               <item>
+                  <hi>Mieges</hi> French Grammar with a Vo cabu lary and Dialogues.</item>
+               <item>—ſhort French Grammar.</item>
+               <item>
+                  <hi>Mieges</hi> Preſent State of <hi>Denmark.</hi>
+               </item>
+               <item>—Coſmography.</item>
+               <item>
+                  <hi>Berniers</hi> Travels.</item>
+               <item>Art how to know Men.</item>
+               <item>
+                  <hi>Pools</hi> Engliſh <hi>Parnaſſus.</hi>
+               </item>
+               <item>Dr. <hi>Whitby</hi> of Idolatry.</item>
+               <item>Dr. <hi>Hinckley</hi> and Mr. <hi>Baxters</hi> Letters.</item>
+               <item>
+                  <hi>Sheppards</hi> Actions for Slander.</item>
+               <item>—Action on the Caſe for Deeds.</item>
+               <item>
+                  <hi>Blounts</hi> Antient Tenures.</item>
+               <item>Compleat Solicitor, entring Clerk and Attorney.</item>
+               <pb facs="tcp:101943:60"/>
+               <item> Touchſtone for Gold and Silver.</item>
+               <item>
+                  <hi>Pettyt</hi>'s Rights of the Commons.</item>
+               <item>—<hi>Miſcellanies.</hi>
+               </item>
+               <item>The Egyptian Hiſtory.</item>
+               <item>Atwoods <hi>Jani Anglorum facies Nova.</hi>
+               </item>
+               <item>Sir <hi>John Pettus</hi> of the Conſtitutions of Parliaments.</item>
+               <item>Ruſſian Impoſtor.</item>
+               <item>
+                  <hi>Ogilbys Aeſops</hi> Fables with Cuts.</item>
+               <item>
+                  <hi>Lawrence's</hi> Intereſt of <hi>Ireland.</hi>
+               </item>
+               <item>A New Book of Inſtruments.</item>
+               <item>French Monarchy.</item>
+               <item>Anglers <hi>vade Meum.</hi>
+               </item>
+               <item>
+                  <hi>Scarons</hi> Novels.</item>
+               <item>
+                  <hi>Meriton</hi> of Dreams.</item>
+               <item>Clerks Tutor.</item>
+               <item>
+                  <hi>Brown</hi> of Fines and Recoveries.</item>
+               <item>
+                  <hi>Kitchin Phyſick.</hi>
+               </item>
+               <item>Poſing of the Parts.</item>
+            </list>
+            <list>
+               <head>Duodecimo.</head>
+               <item>
+                  <hi>Heylins</hi> help to Hiſtory.</item>
+               <item>
+                  <hi>Lukins</hi> Chief Intereſt of Man.</item>
+               <item>Help to Diſcourſe.</item>
+               <item>Mothers Bleſſing.</item>
+               <item>Grotius <hi>de veritate Relig. Chriſt.</hi>
+               </item>
+               <item>Biſhop <hi>Lauds</hi> Devotions.</item>
+               <item>Ladys Calling.</item>
+               <item>
+                  <hi>Vaughan</hi> of Coins and Coynage.</item>
+               <item>
+                  <hi>Meritons</hi> Guide for Conſtables.</item>
+               <pb facs="tcp:101943:61"/>
+               <item> —Landlords Law.</item>
+               <item>
+                  <hi>Phillips</hi> Principles of the Law.</item>
+               <item>
+                  <hi>Manwaring</hi> of Conſumptions.</item>
+               <item>Catalogue of Law Books.</item>
+               <item>
+                  <hi>Pharniacopeia Londonienſis.</hi>
+               </item>
+               <item>
+                  <hi>Butlers</hi> Rhetoric.</item>
+               <item>
+                  <hi>Lucians</hi> Dialogues Greek and Latin.</item>
+               <item>
+                  <hi>Tullies</hi> Select Epiſtles.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:101943:61"/>
+         </div>
+      </back>
+   </text>
+</TEI>
